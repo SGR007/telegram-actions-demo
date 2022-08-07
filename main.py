@@ -1,46 +1,29 @@
-import logging
-import logging.handlers
 import requests
 from bs4 import BeautifulSoup
-from tabulate import tabulate
-
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
-logger_file_handler = logging.handlers.RotatingFileHandler(
-    "status.log",
-    maxBytes=1024 * 1024,
-    backupCount=1,
-    encoding="utf8",
-)
-formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
-logger_file_handler.setFormatter(formatter)
-logger.addHandler(logger_file_handler)
 
 
 def main():
-    req = requests.get('https://news.ycombinator.com/')
-    soup = BeautifulSoup(req.content, 'html.parser')
-    titles = [title.text for title in soup.find_all('a', 'titlelink')]
-    scores = [score.text for score in soup.find_all('span', 'score')]
+    req = requests.get("https://news.ycombinator.com/")
+    soup = BeautifulSoup(req.content, "html.parser")
+    titles = [title.text for title in soup.find_all("a", "titlelink")]
+    scores = [score.text for score in soup.find_all("span", "score")]
+    links = [link["href"] for link in soup.find_all("a", "titlelink")]
     # published_at = [time.text for time in soup.find_all('span', 'age')]
 
-    hn_data = dict(zip(titles, scores))
-    print(tabulate(
-        {
-            "titles": titles,
-            "scores": scores
-        }, headers=["titles", "scores"], tablefmt="pretty"
-    ))
+    hn_data = [
+        {"title": title, "score": score, "link": link}
+        for title, score, link in zip(titles, scores, links)
+    ]
+    # print(hn_data)
 
-    data = tabulate(
-        {
-            "titles": titles,
-            "scores": scores
-        }, headers=["titles", "scores"], tablefmt="pretty"
-    )
-
-    logger.info(f'\n{data}')
+    with open("data.txt", mode="w", encoding="utf-8") as f:
+        for i in hn_data:
+            f.write(f"{'-' * 20}\n")
+            f.write(f"{i['title']}\n")
+            f.write(f"{i['score']}\n")
+            f.write(f"{i['link']}\n")
+            f.write(f"{'-' * 20}\n")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

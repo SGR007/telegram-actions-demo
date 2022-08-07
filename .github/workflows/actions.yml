@@ -29,7 +29,7 @@ jobs:
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message_file: status.log
+          message_file: data.txt
 
-      - name: clear status.log
-        run: rm -rf status.log
+      - name: clear data.txt
+        run: rm -rf data.txt
