@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 4 * * *'
 
 jobs:
   build:
@@ -24,12 +24,15 @@ jobs:
       - name: execute python script
         run: python main.py
 
-      - name: send telegram message on push
-        uses: appleboy/telegram-action@master
-        with:
-          to: ${{ secrets.TELEGRAM_TO }}
-          token: ${{ secrets.TELEGRAM_TOKEN }}
-          message_file: data.txt
+      - name: commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Github Action"
+          git add -A
+          git diff -index --quiet HEAD || (git commit -a -m "updated data" --allow-empty)
 
-      - name: clear data.txt
-        run: rm -rf data.txt
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
