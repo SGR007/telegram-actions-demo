@@ -1,0 +1,150 @@
+--------------------
+CEO Shadow Program
+188 points
+https://about.gitlab.com/handbook/ceo/shadow/
+--------------------
+--------------------
+Tauri – Creating Tiny Desktop Apps With React/Vue
+35 points
+https://tauri.app/
+--------------------
+--------------------
+Improving Postgres Text Search Speed
+58 points
+https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records
+--------------------
+--------------------
+Local simulation feature to be removed from all Autodesk Fusion 360 versions
+187 points
+https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html
+--------------------
+--------------------
+The hacking of Starlink terminals has begun
+340 points
+https://www.wired.com/story/starlink-internet-dish-hack/
+--------------------
+--------------------
+Objective-S: architecture-oriented language based on Smalltalk and Objective-C
+88 points
+http://objective.st/
+--------------------
+--------------------
+Zellij: A terminal workspace with batteries included
+94 points
+https://zellij.dev/
+--------------------
+--------------------
+1959 Santa Susana meltdown
+37 points
+https://www.kcrw.com/news/shows/greater-la/santa-susana
+--------------------
+--------------------
+Emacs and Eev, Or: How to Automate Almost Everything
+38 points
+http://angg.twu.net/eev-article.html
+--------------------
+--------------------
+Study finds link between 'forever chemicals' in cookware and liver cancer
+343 points
+https://www.insider.com/study-confirms-link-between-forever-chemicals-and-liver-cancer-risk-2022-8
+--------------------
+--------------------
+Why should I have written ZeroMQ in C, not C++ (2012)
+30 points
+https://250bpm.com/blog:4/
+--------------------
+--------------------
+Cancer in the Cold
+206 points
+https://www.science.org/content/blog-post/cancer-cold
+--------------------
+--------------------
+Subreply
+31 points
+https://subreply.com/discover
+--------------------
+--------------------
+Superlattices Could Make Bulky Capacitors Obsolete
+10 points
+https://spectrum.ieee.org/antiferroelectric
+--------------------
+--------------------
+Logistics, How Did They Do It, Part III: On the Move
+176 points
+https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/
+--------------------
+--------------------
+Bioengineered cornea restores sight to the blind and visually impaired
+48 points
+https://medicalxpress.com/news/2022-08-bioengineered-cornea-sight-visually-impaired.html
+--------------------
+--------------------
+Intel 286 secrets: ICE mode and F1 0F 04
+66 points
+https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/
+--------------------
+--------------------
+NSA's Warrantless Wiretaps (2012)
+91 points
+https://www.nerdylorrin.net/jerry/politics/Warrantless/WarrantlessINTRO.html
+--------------------
+--------------------
+The Unreasonable Effectiveness of Makefiles
+220 points
+https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
+--------------------
+--------------------
+US Navy Radio Communications – 1950s and 1960s
+22 points
+https://www.navy-radio.com/
+--------------------
+--------------------
+Levitator 1: copter flys from the tips
+4 points
+https://www.youtube.com/watch?v=JfP7955XipY
+--------------------
+--------------------
+Twitter is hiring an alarming number of FBI agents
+34 points
+https://therealnews.com/twitter-is-hiring-an-alarming-number-of-fbi-agents
+--------------------
+--------------------
+Danielle Steel's Production Function
+18 points
+https://dev.lareviewofbooks.org/article/the-sublime-danielle-steel/
+--------------------
+--------------------
+Asdf Performance
+167 points
+http://stratus3d.com/blog/2022/08/11/asdf-performance/
+--------------------
+--------------------
+Fusion Turns Up the Heat
+22 points
+https://physics.aps.org/articles/v15/67
+--------------------
+--------------------
+Naming Things Is Hard
+34 points
+https://www.fastruby.io/blog/rails/naming-things-is-hard.html
+--------------------
+--------------------
+Crop Report: USA spring wheat production up over 50%, record high for soybeans
+122 points
+https://release.nass.usda.gov/reports/crop0822.txt
+--------------------
+--------------------
+A meteor or alien tech: Harvard professor plans UFO expedition
+210 points
+https://www.nbcboston.com/news/local/harvard-professor-believes-alien-tech-could-have-crashed-into-the-pacific-ocean-and-he-wants-to-find-it/2805992/
+--------------------
+--------------------
+Excel is pretty dang cool
+324 points
+https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/
+--------------------
+--------------------
+The Supreme Korean court says that scraping publicly available data is legal
+253 points
+https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29
+--------------------
