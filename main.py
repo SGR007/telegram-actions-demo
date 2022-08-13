@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import os
 
 
 def main():
@@ -17,8 +18,11 @@ def main():
     ]
     # print(hn_data)
 
+    if not os.path.exists('data'):
+        os.makedirs('data')
+
     with open(
-        f"data/{datetime.now().strftime('%d-%m-%Y')}.txt", mode="w", encoding="utf-8"
+            f"data/{datetime.now().strftime('%d-%m-%Y')}.txt", mode="w", encoding="utf-8"
     ) as f:
         for i in hn_data:
             f.write(f"{'-' * 20}\n")
