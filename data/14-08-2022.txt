@@ -1,0 +1,145 @@
+--------------------
+OctoPrint: The snappy web interface for your 3D printer
+78 points
+https://octoprint.org/
+--------------------
+--------------------
+The Remote Pop-In Meeting
+7 points
+https://twos.dev/thepopin.html
+--------------------
+--------------------
+Observations on tragedy in a digital age
+48 points
+https://tedgioia.substack.com/p/10-observations-on-tragedy-in-a-digital
+--------------------
+--------------------
+Quirky computing books
+201 points
+https://github.com/fogus/thunks/blob/main/reading/quirkeys.org
+--------------------
+--------------------
+Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included
+10 points
+https://www.cppstories.com/2020/07/lambdas5ex.html/
+--------------------
+--------------------
+Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text
+266 points
+https://zmarshall.nl/static/eink-vnc.html
+--------------------
+--------------------
+“Logistics”, an 857-hour movie, tracks a pedometer from shop back to factory
+269 points
+https://readpassage.com/i-watched-an-857-hour-movie-to-encounter-capitalisms-extremes/
+--------------------
+--------------------
+Does the Dog Die?
+17 points
+https://www.thewildest.com/dog-lifestyle/does-the-dog-die
+--------------------
+--------------------
+Multiple sclerosis has a common viral culprit, opening doors to new approaches
+91 points
+https://www.sciencenews.org/article/multiple-sclerosis-epstein-barr-virus-vaccines-treatments
+--------------------
+--------------------
+A software engineer's circuitous journey to calculate eigenvalues
+68 points
+https://www.stylewarning.com/posts/eigenvalues/
+--------------------
+--------------------
+What is TTY?
+216 points
+https://www.sobyte.net/post/2022-05/tty/
+--------------------
+--------------------
+Robotic motion in curved space defies standard laws of physics
+18 points
+https://phys.org/news/2022-08-robotic-motion-space-defies-standard.html
+--------------------
+--------------------
+Erg: a statically typed language that is Python compatible
+114 points
+https://github.com/erg-lang/erg
+--------------------
+--------------------
+Programming and Writing
+53 points
+http://antirez.com/news/135
+--------------------
+--------------------
+UTC vs. UT1 time and other nuances (2020)
+41 points
+https://mperdikeas.github.io/utc-vs-ut1-time.html
+--------------------
+--------------------
+Off the Grid Cali “Slab City” Reaches Its Boiling Point
+57 points
+https://bluedotliving.com/slab-city-reaches-its-boiling-point/
+--------------------
+--------------------
+Man who robbed bank to get his own money back hailed as national hero
+173 points
+https://www.aljazeera.com/news/2022/8/11/armed-man-holds-beirut-bank-staff-hostage-demands-savings
+--------------------
+--------------------
+Ask HN: Are Linux HowTos dead? Why?
+96 points
+item?id=32453735
+--------------------
+--------------------
+First Eco-Friendly Filter Removing 'Microplastics in Water,'
+29 points
+https://www.asiaresearchnews.com/content/worlds-first-eco-friendly-filter-removing-microplastics-water-threat-humans-sea-without
+--------------------
+--------------------
+WinterCG: Web-Interoperable Runtimes Community Group
+49 points
+https://wintercg.org/
+--------------------
+--------------------
+Skio (YC S20) is hiring in NYC – subscriptions for Shopify, ReCharge migrations
+79 points
+https://skio.com/careers/
+--------------------
+--------------------
+Electric vehicles are way more energy-efficient than internal combustion
+53 points
+https://www.motortrend.com/news/evs-more-efficient-than-internal-combustion-engines/
+--------------------
+--------------------
+IPv4 Address Auctions
+85 points
+https://auctions.ipv4.global/
+--------------------
+--------------------
+Split Brain Psychology
+10 points
+https://superbowl.substack.com/p/split-brain-psychology
+--------------------
+--------------------
+Capitalism and Alienation [Severance Is the Workplace Thriller We’ve Needed]
+75 points
+https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/
+--------------------
+--------------------
+Modern Malaise
+44 points
+https://ava.substack.com/p/modern-malaise
+--------------------
+--------------------
+Do regex dream of Turing Completeness? (2021) [video]
+15 points
+https://www.youtube.com/watch?v=TImfEidPo-o
+--------------------
+--------------------
+Using strangers to explore the city (2018)
+59 points
+https://www.theguardian.com/cities/2018/sep/21/i-follow-a-different-person-every-day-using-strangers-to-explore-the-city
+--------------------
+--------------------
+Design of a Modern Cache (2016)
+539 points
+http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
+--------------------
