@@ -1,0 +1,145 @@
+--------------------
+Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch
+127 points
+https://github.com/kentjhall/horizon-linux
+--------------------
+--------------------
+Breaking all macOS security layers with a single vulnerability
+235 points
+https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability/
+--------------------
+--------------------
+AWS GuardDuty – the Good, the Bad, and the Ugly
+23 points
+https://badshah.io/guardduty-good-bad-ugly/
+--------------------
+--------------------
+Declining quality of consumer-grade products – 2009 fridge compressor autopsy
+392 points
+https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2
+--------------------
+--------------------
+Habitual GPS use negatively impacts spatial memory during self-guided navigation
+176 points
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156656/
+--------------------
+--------------------
+Engine Simulator: produce realistic sounds from various engine parameters
+85 points
+https://github.com/ange-yaghi/engine-sim
+--------------------
+--------------------
+Milwaukee Tool Raises the Bar with New USA Factory
+251 points
+https://toolguyd.com/milwaukee-tool-new-usa-factory/
+--------------------
+--------------------
+Website to Sign Up for the Lyme Disease Vaccine Phase 3 Trial
+70 points
+https://fightlyme.careaccess.com/
+--------------------
+--------------------
+Apology for Video Games Research
+36 points
+http://togelius.blogspot.com/2022/08/apology-for-video-games-research.html
+--------------------
+--------------------
+Browser password managers – flawed security, by design
+9 points
+https://fractionalciso.com/browser-password-managers-flawed-security-by-design/
+--------------------
+--------------------
+How to Delete Gmail Attachments Without Deleting the Emails
+99 points
+https://blog.unattach.app/2022/07/how-to-delete-gmail-attachments.html
+--------------------
+--------------------
+I want to hate this new classic lit reading app but I do not
+24 points
+https://lithub.com/i-want-to-hate-this-new-classic-lit-reading-app-but-i-do-not/
+--------------------
+--------------------
+Three papers highlight results of record yield nuclear fusion shot
+262 points
+https://www.llnl.gov/news/three-peer-reviewed-papers-highlight-scientific-results-national-ignition-facility-record
+--------------------
+--------------------
+Show HN: A web text-editor where you can write, compute and draw
+186 points
+http://lambdaway.free.fr/lambdawalks/
+--------------------
+--------------------
+A Buffalo Photographer’s Dignified Look at the Passage of Time
+7 points
+https://www.newyorker.com/culture/photo-booth/a-buffalo-photographers-dignified-look-at-the-passage-of-time
+--------------------
+--------------------
+Mexican Loan Apps, Extortion, and the Google Play Store
+188 points
+https://techpolicy.press/mexican-loan-apps-extortion-and-the-google-play-store/
+--------------------
+--------------------
+Puppertino: A CSS framework based on Human Guidelines from Apple
+126 points
+https://github.com/codedgar/Puppertino
+--------------------
+--------------------
+Clark Stanley: The First Snake Oil Salesman
+26 points
+https://www.amusingplanet.com/2022/08/clark-stanley-first-snake-oil-salesman.html
+--------------------
+--------------------
+Automation of Canon camera using their WiFi-based Camera Control API (CCAPI)
+42 points
+https://github.com/horshack-dpreview/Canomate
+--------------------
+--------------------
+Page was served from Nginx on ReactOS
+60 points
+https://reactos.aaron.cc/
+--------------------
+--------------------
+Patterns (YC S21) is hiring devs to help build the Figma for data
+74 points
+https://www.patterns.app/
+--------------------
+--------------------
+Checkmake: Experimental Linter/Analyzer for Makefiles
+54 points
+https://github.com/mrtazz/checkmake
+--------------------
+--------------------
+Caste in California: Tech giants confront ancient Indian hierarchy
+82 points
+https://www.reuters.com/business/sustainable-business/caste-california-tech-giants-confront-ancient-indian-hierarchy-2022-08-15/
+--------------------
+--------------------
+The Decommoditization of Protocols (1998)
+79 points
+https://www.levien.com/free/decommoditizing.html
+--------------------
+--------------------
+The Dymaxion car: Buckminster Fuller’s failed automobile
+34 points
+https://slate.com/technology/2022/08/the-dymaxion-car-the-true-history-of-buckminster-fullers-failed-automobile.html
+--------------------
+--------------------
+Quorn Fermentation and Evolution in Fermenters
+62 points
+http://www.davidmoore.org.uk/21st_century_guidebook_to_fungi_platinum/Ch17_18.htm
+--------------------
+--------------------
+Gravity Probe B
+337 points
+https://en.wikipedia.org/wiki/Gravity_Probe_B
+--------------------
+--------------------
+Oasis: Small statically-linked Linux system
+57 points
+https://github.com/oasislinux/oasis
+--------------------
+--------------------
+Ask HN: How to find a small town to relocate for remote work?
+286 points
+item?id=32465372
+--------------------
