@@ -1,0 +1,145 @@
+--------------------
+SQLite is not a toy database (2021)
+55 points
+https://antonz.org/sqlite-is-not-a-toy-database/
+--------------------
+--------------------
+World Building and Alternate Reality Common Lisp
+19 points
+https://kaveh808.medium.com/41-world-building-and-alternate-reality-common-lisp-ca9fbc619a8c
+--------------------
+--------------------
+How Discord supercharges network disks for extreme low latency
+334 points
+https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency
+--------------------
+--------------------
+Twilio incident: What Signal users need to know
+505 points
+https://support.signal.org/hc/en-us/articles/4850133017242
+--------------------
+--------------------
+Colour evolution of Betelgeuse over two millennia, derived from records
+29 points
+https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac1969/6651563
+--------------------
+--------------------
+A robots.txt Problem
+75 points
+http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html
+--------------------
+--------------------
+Tom Mitchell's Machine Learning book now is free
+49 points
+http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html
+--------------------
+--------------------
+A farmer’s hunch led to a lost monastery and a Neolithic surprise
+79 points
+https://www.atlasobscura.com/articles/beaubec-monastery-ireland
+--------------------
+--------------------
+Tup – an instrumenting file-based build system
+28 points
+https://gittup.org/tup/
+--------------------
+--------------------
+Correcting a widespread error in unification algorithms (1991) [pdf]
+23 points
+https://norvig.com/unify-bug.pdf
+--------------------
+--------------------
+Preparedness Paradox
+168 points
+https://en.wikipedia.org/wiki/Preparedness_paradox
+--------------------
+--------------------
+Apple to mandate three days in a week in the office by Labor Day
+24 points
+https://www.sfchronicle.com/tech/article/Apple-to-mandate-three-days-in-a-week-in-the-17375631.php
+--------------------
+--------------------
+Learnings of a CEO: Wade Foster, Zapier
+134 points
+https://www.ycombinator.com/blog/learnings-of-a-ceo-wade-foster-zapier
+--------------------
+--------------------
+A catalogue of optimizing transformations (1971) [pdf]
+39 points
+https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf
+--------------------
+--------------------
+How to design a referral program
+102 points
+https://andrewchen.com/how-to-design-a-referral-program/
+--------------------
+--------------------
+Ask HN: Where to meet people who are interested in building a company together?
+23 points
+item?id=32478642
+--------------------
+--------------------
+Process behaviour anomaly detection using eBPF and unsupervised learning
+92 points
+https://www.evilsocket.net/2022/08/15/Process-behaviour-anomaly-detection-using-eBPF-and-unsupervised-learning-Autoencoders/
+--------------------
+--------------------
+Old-school pencil-on-paper vector piloting is key to crossing the Gulf Stream
+7 points
+https://www.cruisingworld.com/how-to/seamanship-how-to-plot-your-course-across-the-gulf-stream/
+--------------------
+--------------------
+The Intel 80376 – A legacy-free i386 with a twist (2010)
+82 points
+https://www.pagetable.com/?p=460
+--------------------
+--------------------
+Quaternions: A Practical Guide
+131 points
+https://www.anyleaf.org/blog/quaternions:-a-practical-guide
+--------------------
+--------------------
+On a road to Prizren with a Free Software Phone
+143 points
+https://honk.sigxcpu.org/con/On_a_road_to_Prizren_with_a_Free_Software_Phone.html
+--------------------
+--------------------
+Timelock Encryption made possible and easy to use
+61 points
+https://github.com/drand/tlock
+--------------------
+--------------------
+Open-source rival for OpenAI’s DALL-E runs on your graphics card
+277 points
+https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/
+--------------------
+--------------------
+Tell HN: After 10 years of experiments, custom username emails receive no spam
+320 points
+item?id=32470645
+--------------------
+--------------------
+Win32 Is the Only Stable ABI on Linux?
+405 points
+https://blog.hiler.eu/win32-the-only-stable-abi/
+--------------------
+--------------------
+Anonymous Search Engine
+55 points
+https://www.tuxdex.com
+--------------------
+--------------------
+Pachyderm (YC W15) is hiring Go distributed systems and testing engineers
+122 points
+https://www.pachyderm.com/careers/#positions
+--------------------
+--------------------
+Scaling Kubernetes to Thousands of CRDs
+101 points
+https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/
+--------------------
+--------------------
+Impact to DigitalOcean customers resulting from Mailchimp security incident
+20 points
+https://www.digitalocean.com/blog/digitalocean-response-to-mailchimp-security-incident
+--------------------
