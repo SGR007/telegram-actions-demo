@@ -1,0 +1,145 @@
+--------------------
+Physics duo finds magic in two dimensions
+32 points
+https://www.quantamagazine.org/physics-duo-finds-magic-in-two-dimensions-20220816/
+--------------------
+--------------------
+Adventure game graphics with DALL-E 2
+120 points
+https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/
+--------------------
+--------------------
+High Court of Australia rules hyperlinking is not publishing [pdf]
+215 points
+https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27
+--------------------
+--------------------
+How to make fermented hot sauce (2021)
+270 points
+https://www.seriouseats.com/fermented-hot-sauce-how-to
+--------------------
+--------------------
+SSH tips and tricks
+294 points
+https://carlosbecker.dev/posts/ssh-tips-and-tricks/
+--------------------
+--------------------
+Putting Tailscale on the Steam Deck
+52 points
+https://tailscale.com/blog/steam-deck/
+--------------------
+--------------------
+Using the same Arch Linux installation for a decade
+449 points
+https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/
+--------------------
+--------------------
+Raft Consensus Animated
+352 points
+https://thesecretlivesofdata.com/raft/
+--------------------
+--------------------
+Ford F-150 Lightning: Fast Truck, Slow Computer
+155 points
+https://www.theverge.com/23307298/ford-f-150-lightning-review
+--------------------
+--------------------
+Docker Compose best practices for dev and prod
+312 points
+https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod
+--------------------
+--------------------
+The AI Art Apocalypse
+153 points
+https://alexanderwales.com/the-ai-art-apocalypse/
+--------------------
+--------------------
+The Changing Iconography of Byzantine Gold Coinage
+9 points
+https://numismatics.org/pocketchange/byzantine-iconography/
+--------------------
+--------------------
+Plasma reactors could create oxygen on Mars
+113 points
+https://www.science.org/content/article/plasma-reactors-could-create-oxygen-mars
+--------------------
+--------------------
+Why React Re-Renders
+213 points
+https://www.joshwcomeau.com/react/why-react-re-renders/
+--------------------
+--------------------
+Car Seats as Contraception (2020)
+69 points
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3665046
+--------------------
+--------------------
+A spelled-out intro to neural networks and backpropagation [video]
+4 points
+https://www.youtube.com/watch?v=VMj-3S1tku0
+--------------------
+--------------------
+How Gray Became the King of Color
+20 points
+https://www.fastcompany.com/90778314/how-gray-became-the-king-of-color
+--------------------
+--------------------
+An Astronomer's Introduction to NumPyro
+11 points
+https://dfm.io/posts/intro-to-numpyro/
+--------------------
+--------------------
+The Future of Interactive Theorem Proving?
+70 points
+https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/
+--------------------
+--------------------
+Requiring MFA on popular gem maintainers
+157 points
+https://blog.rubygems.org/2022/08/15/requiring-mfa-on-popular-gems.html
+--------------------
+--------------------
+VPNs on iOS are a scam
+336 points
+https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php
+--------------------
+--------------------
+Prometheus: Fuel from the Air
+94 points
+https://prometheusfuels.com/technology
+--------------------
+--------------------
+Vector search just got up to 10x faster and vertically scalable
+71 points
+https://www.pinecone.io/learn/faster-easier-scalable/
+--------------------
+--------------------
+Marc Andreessen and Ultra-Wealthy Neighbors Thwart Housing in California Town
+172 points
+https://www.bloomberg.com/news/articles/2022-08-05/vc-marc-andreessen-opposes-plan-for-multi-family-atherton-housing
+--------------------
+--------------------
+BRL-CAD
+55 points
+https://en.wikipedia.org/wiki/BRL-CAD
+--------------------
+--------------------
+Wokwi – Simulate IoT Projects in the Browser
+77 points
+https://wokwi.com/
+--------------------
+--------------------
+A one-bit processor explained: reverse-engineering the vintage MC14500B
+39 points
+http://www.righto.com/2021/02/a-one-bit-processor-explained-reverse.html
+--------------------
+--------------------
+Why did Airbnb dump React Native? (2021)
+89 points
+https://www.theimmigrantprogrammers.com/p/why-airbnb-dumped-react-native
+--------------------
+--------------------
+Class-specific diffractive cameras with all-optical erasure of undesired objects
+69 points
+https://elight.springeropen.com/articles/10.1186/s43593-022-00021-3
+--------------------
