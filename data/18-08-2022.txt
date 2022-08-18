@@ -1,0 +1,150 @@
+--------------------
+It wasn't for nothing
+141 points
+https://gexp.no/it-wasnt-for-nothing.html
+--------------------
+--------------------
+G1-G3 Watches for 17-19 August, 2022
+32 points
+https://www.swpc.noaa.gov/news/g1-g3-watches-17-19-august-2022
+--------------------
+--------------------
+Learn Postgres at the Playground – Postgres compiled to WASM running in browser
+636 points
+https://www.crunchydata.com/blog/learn-postgres-at-the-playground
+--------------------
+--------------------
+Edible insects role in transmission of parasitic diseases to humans (2019)
+13 points
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219303
+--------------------
+--------------------
+Vietnam to make Apple Watch and MacBook
+408 points
+https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever
+--------------------
+--------------------
+Tesla Virtual Power Plant
+208 points
+https://www.tesla.com/support/energy/tesla-virtual-power-plant-pge-2022
+--------------------
+--------------------
+FDA moves to make over-the-counter hearing aids available
+193 points
+https://www.washingtonpost.com/health/2022/08/16/fda-hearing-aids-biden/
+--------------------
+--------------------
+New antibody neutralizes all known SARS-CoV-2 variants in lab tests
+44 points
+https://hms.harvard.edu/news/one-all
+--------------------
+--------------------
+Zooko's Triangle
+36 points
+https://en.wikipedia.org/wiki/Zooko%27s_triangle
+--------------------
+--------------------
+Nixpacks takes a source directory and produces an OCI compliant image
+112 points
+https://nixpacks.com/docs/getting-started
+--------------------
+--------------------
+Volksforth – A Forth for Retro Computers
+7 points
+http://volksforth.sourceforge.net/
+--------------------
+--------------------
+One Page Dungeon
+130 points
+https://watabou.itch.io/one-page-dungeon
+--------------------
+--------------------
+The Essence of Programming (2021)
+72 points
+https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/
+--------------------
+--------------------
+Another Path to Intelligence
+57 points
+https://nautil.us/another-path-to-intelligence-23113/
+--------------------
+--------------------
+Launch HN: Nimbus (YC W22) – Cloud dev environments for teams
+78 points
+item?id=32496462
+--------------------
+--------------------
+Singing: The key to a long life (2008)
+28 points
+https://www.npr.org/2008/11/23/97320958/singing-the-key-to-a-long-life
+--------------------
+--------------------
+The Inner Osborne Effect (2021)
+121 points
+https://raganwald.com/2021/10/28/the-inner-osborne-effect.html
+--------------------
+--------------------
+Emacs: Mastering Eshell
+96 points
+https://www.masteringemacs.org/article/complete-guide-mastering-eshell
+--------------------
+--------------------
+Talking to your customers: a disruptive Agile framework
+4 points
+https://lucasfcosta.com/2022/08/03/talk-to-your-customers.html
+--------------------
+--------------------
+AirTag leads to arrest of airline worker who stole $15,000 of items from luggage
+106 points
+https://www.nbcnews.com/news/us-news/airtag-leads-arrest-airline-worker-accused-stealing-least-15000-items-rcna43547
+--------------------
+--------------------
+Agile projects have become waterfall projects with sprints
+109 points
+https://thehosk.medium.com/agile-projects-have-become-waterfall-projects-with-sprints-536141801856
+--------------------
+--------------------
+Build Your Own Mobile Proxy for Web Scraping
+156 points
+https://scrapingfish.com/blog/byo-mobile-proxy-for-web-scraping
+--------------------
+--------------------
+The Soviets hunted whales to the brink of extinction but scientists tracked toll
+80 points
+https://gcaptain.com/the-soviets-hunted-whales-to-the-brink-of-extinction-but-its-scientists-secretly-tracked-its-toll/
+--------------------
+--------------------
+Frequently Asked Questions about Colour (2006)
+17 points
+http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html
+--------------------
+--------------------
+6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard
+352 points
+https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard
+--------------------
+--------------------
+Apple releases macOS 12.5.1, iOS 15.6.1, patches for two zero-day vulerabilities
+145 points
+https://support.apple.com/en-us/HT213413
+--------------------
+--------------------
+Traps for the Unwary in Python’s Import System
+62 points
+http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
+--------------------
+--------------------
+Accounting For Developers, Part I
+538 points
+https://www.moderntreasury.com/journal/accounting-for-developers-part-i
+--------------------
+--------------------
+HP LaserJet Tank – Refillable laser printer
+87 points
+https://www.hp.com/us-en/printers/laserjet-tank.html
+--------------------
+--------------------
+The World of Egyptian Demons
+59 points
+https://www.archaeology.org/issues/465-2205/features/10481-the-world-of-egyptian-demons
+--------------------
