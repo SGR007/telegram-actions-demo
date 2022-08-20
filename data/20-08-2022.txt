@@ -1,0 +1,145 @@
+--------------------
+Diablo 1 for Web Browsers
+58 points
+https://github.com/d07RiV/diabloweb
+--------------------
+--------------------
+Pent-up angst in the community about the erosion of the Mac experience
+54 points
+https://twitter.com/stroughtonsmith/status/1559680018996944898
+--------------------
+--------------------
+Visual Sum of Cubes
+13 points
+https://x.st/visual-sum-of-cubes/
+--------------------
+--------------------
+Resolving an Unusual WiFi Issue
+337 points
+https://blog.ando.fyi/posts/diagnosing-an-unsual-wifi-issue/
+--------------------
+--------------------
+“Quantum-Safe” Crypto Hacked by 10-Year-Old PC
+299 points
+https://spectrum.ieee.org/quantum-safe-encryption-hacked
+--------------------
+--------------------
+For many neurodiverse people, 'The Sims' has been a lifelong comfort
+40 points
+https://www.cnn.com/2022/08/18/us/sims-autism-adhd-video-games-community-wellness-cec/index.html
+--------------------
+--------------------
+Is Haskell the language of geniuses and academia?
+20 points
+https://habr.com/en/post/441350/
+--------------------
+--------------------
+Crumb Circuit Simulator
+146 points
+https://www.crumbsim.com
+--------------------
+--------------------
+High-Speed Rail Board Completes Environmental Clearance in Northern California
+166 points
+https://hsr.ca.gov/2022/08/18/news-release-high-speed-rail-board-completes-environmental-clearance-in-northern-california/
+--------------------
+--------------------
+How I Learned to Stop Worrying and Love Macros
+60 points
+https://zdimension.fr/how-i-learned-to-stop-worrying-and-love-macros/
+--------------------
+--------------------
+Seeing Like a State, Progress and Poverty, and Owning Land
+59 points
+http://www.loukidelis.com/on-land-ownership.html
+--------------------
+--------------------
+Shazam Turns 20
+321 points
+https://www.apple.com/newsroom/2022/08/shazam-turns-20/
+--------------------
+--------------------
+Svix (YC W21) Is Hiring (Remote) – Enterprise-Ready Webhook Service
+73 points
+https://www.svix.com/careers/
+--------------------
+--------------------
+How to Make a CubeSat
+54 points
+https://orbitalindex.com/archive/2022-08-17-Issue-181/
+--------------------
+--------------------
+640by480: Instagram Clone for Vintage Digital Cameras
+113 points
+https://www.640by480.com/
+--------------------
+--------------------
+How to identify and misidentify a brown recluse spider (2005)
+87 points
+https://spiders.ucr.edu/how-identify-and-misidentify-brown-recluse-spider
+--------------------
+--------------------
+Being-Doing Balance over Work-Life Balance
+113 points
+https://jeanhsu.substack.com/p/being-doing-balance-over-work-life
+--------------------
+--------------------
+Apple’s Use of AppKit, Mac Catalyst and SwiftUI in macOS
+10 points
+https://blog.timac.org/2022/0818-state-of-appkit-catalyst-swiftui-mac/
+--------------------
+--------------------
+Shame (1992)
+131 points
+https://www.theatlantic.com/magazine/archive/1992/02/shame/670008/
+--------------------
+--------------------
+Advanced Bash-Scripting Guide (2014)
+38 points
+https://tldp.org/LDP/abs/html/
+--------------------
+--------------------
+Nvidia to Share New Details on Grace CPU, Hopper GPU, NVLink Switch, Jetson Orin
+198 points
+https://blogs.nvidia.com/blog/2022/08/19/grace-hopper-nvswitch-hot-chips/
+--------------------
+--------------------
+Show HN: SineRider - A game about love, math, and graphing built by teenagers
+406 points
+https://sinerider.com/
+--------------------
+--------------------
+App Store doesn't accept “too simple” apps
+92 points
+https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections
+--------------------
+--------------------
+Ted Nelson on What Modern Programmers Can Learn from the Past (2018)
+161 points
+https://spectrum.ieee.org/extended-directors-cut-ted-nelson-on-what-modern-programmers-can-learn-from-the-past
+--------------------
+--------------------
+Removing HTTP/2 Server Push from Chrome
+117 points
+https://developer.chrome.com/blog/removing-push/
+--------------------
+--------------------
+DTrace-on-Windows
+112 points
+https://github.com/microsoft/DTrace-on-Windows
+--------------------
+--------------------
+Ask HN: Why is there no performant remote desktop for Mac/Linux?
+63 points
+item?id=32526108
+--------------------
+--------------------
+Show HN: Modifying Clang for a Safer, More Explicit C++
+27 points
+https://github.com/compiler-devel/llvm-project/commit/cfd497fadb8bae4c5428f40ea50cfc760649afa4
+--------------------
+--------------------
+Don’t plug in that free Microsoft Office USB drive you got in the mail
+77 points
+https://www.pcworld.com/article/833790/free-office-scam-uses-usb-drive-sent-through-mail.html
+--------------------
