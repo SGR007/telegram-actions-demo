@@ -1,0 +1,145 @@
+--------------------
+There’s no speed limit (2009)
+169 points
+https://sive.rs/kimo
+--------------------
+--------------------
+Brian Kernighan adds Unicode support to Awk
+427 points
+https://github.com/onetrueawk/awk/commit/9ebe940cf3c652b0e373634d2aa4a00b8395b636
+--------------------
+--------------------
+How can we develop transformative tools for thought? [pdf]
+55 points
+https://numinous.productions/ttft/print/TTFT.pdf
+--------------------
+--------------------
+A demo of GPT-3's ability to understand long instructions
+61 points
+https://twitter.com/goodside/status/1557524546412052482
+--------------------
+--------------------
+On Being Busy
+52 points
+https://blog.aadilali.com/posts/busy.html
+--------------------
+--------------------
+C++ Concurrency Model on x86 for Dummies (2020)
+59 points
+http://databasearchitects.blogspot.com/2020/10/c-concurrency-model-on-x86-for-dummies.html
+--------------------
+--------------------
+Coping with Copilot
+260 points
+https://www.sigarch.org/coping-with-copilot/
+--------------------
+--------------------
+Show HN: Brew.fm – Let bots discover new music on Spotify for you
+47 points
+https://www.brew.fm/
+--------------------
+--------------------
+Ask HN: Anyone else feel trapped in FANG? How did you get out?
+33 points
+item?id=32537004
+--------------------
+--------------------
+Flang: LLVM’s Fortran Front End
+47 points
+https://flang.llvm.org/docs/
+--------------------
+--------------------
+Beyond Hyperanthropomorphism
+40 points
+https://studio.ribbonfarm.com/p/beyond-hyperanthropomorphism
+--------------------
+--------------------
+Tell HN: A new way to use GPT-3 to generate code (and everything else)
+228 points
+item?id=32532875
+--------------------
+--------------------
+Ivy (YC W23) is hiring developers to help unify ML
+50 points
+https://www.ycombinator.com/companies/ivy/jobs
+--------------------
+--------------------
+The Creedence Clearwater Revival Revival
+95 points
+https://www.newyorker.com/culture/cultural-comment/the-creedence-clearwater-revival-revival
+--------------------
+--------------------
+A competitive multiplayer version of Conway's Game of Life
+104 points
+http://lifecompetes.com
+--------------------
+--------------------
+Scientists discover how mosquitoes can ‘sniff out’ humans
+114 points
+https://www.theguardian.com/science/2022/aug/18/scientists-discover-how-mosquitoes-can-sniff-out-humans
+--------------------
+--------------------
+Float Toy
+133 points
+https://evanw.github.io/float-toy/
+--------------------
+--------------------
+So you want to be a consultant? (2005)
+142 points
+http://unixwiz.net/techtips/be-consultant.html
+--------------------
+--------------------
+The Merge
+122 points
+https://ethereum.org/en/upgrades/merge/
+--------------------
+--------------------
+Faster zlib/DEFLATE decompression on the Apple M1 (and x86)
+13 points
+https://dougallj.wordpress.com/2022/08/20/faster-zlib-deflate-decompression-on-the-apple-m1-and-x86/
+--------------------
+--------------------
+Complex of 500 standing stones found in Spain
+51 points
+https://phys.org/news/2022-08-huge-complex-stones-spain.html
+--------------------
+--------------------
+Nvidia Kaolin Wisp: a PyTorch library to work with neural fields
+77 points
+https://github.com/NVIDIAGameWorks/kaolin-wisp
+--------------------
+--------------------
+Unicode Utilities: Confusables
+3 points
+https://util.unicode.org/UnicodeJsps/confusables.jsp?a=hackernews+&r=None
+--------------------
+--------------------
+JBIG2 Undetectable Data Corruption: Destroying Our Past, One Character at a Time
+91 points
+https://www.circuitousroot.com/artifice/resources/texts/jb2-jbig2/index.html
+--------------------
+--------------------
+Put it on the crazy pile: Ideas and creativity
+30 points
+https://bastian.rieck.me/blog/posts/2022/crazy_pile/
+--------------------
+--------------------
+Let's Try Gnome Boxes
+4 points
+https://glovesoff.substack.com/p/lets-try-gnome-boxes
+--------------------
+--------------------
+Software-defined satellite enters commercial service
+31 points
+https://www.spacedaily.com/m/reports/Software_defined_satellite_enters_commercial_service_999.html
+--------------------
+--------------------
+Fan-Out Packaging Gets Competitive
+181 points
+https://semiengineering.com/fan-out-packaging-gets-competitive/
+--------------------
+--------------------
+I recreated famous album covers with DALL-E
+9 points
+https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/
+--------------------
