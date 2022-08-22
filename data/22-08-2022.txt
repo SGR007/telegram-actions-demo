@@ -1,0 +1,145 @@
+--------------------
+Applying a rule from Pixar with a camera from 1961
+81 points
+https://news.gregjeanneau.com/pixar-camera-1961/
+--------------------
+--------------------
+Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi
+174 points
+https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/
+--------------------
+--------------------
+This Program is Illegally Packaged in 14 Distributions
+128 points
+https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html
+--------------------
+--------------------
+A group of con artists rigged promotional sweepstakes throughout the 1980s
+21 points
+https://www.newyorker.com/news/american-chronicles/donald-trump-and-the-sweepstakes-scammers
+--------------------
+--------------------
+Crazy Eddie’s Life Was Insane
+18 points
+https://www.nytimes.com/2022/08/09/books/review-retail-gangster-gary-weiss.html
+--------------------
+--------------------
+NYC Fire Department Forcible Entry Reference Guide [pdf]
+18 points
+https://ia800207.us.archive.org/15/items/FDNYforcibleEntryReferenceGuide/FDNY_Forcible_entry_reference_guide.pdf
+--------------------
+--------------------
+uBlock Origin works best on Firefox
+195 points
+https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
+--------------------
+--------------------
+New evidence shows water separates into two different liquids at low temperature
+119 points
+https://www.birmingham.ac.uk/news/2022/new-evidence-shows-water-separates-into-two-different-liquids-at-low-temperatures
+--------------------
+--------------------
+Adam74: A terminal for a small 8-bit computer
+69 points
+https://www.engineersneedart.com/adam74/adam74.html
+--------------------
+--------------------
+A DAW made in Excel (2020)
+10 points
+https://www.youtube.com/watch?v=RFdCM2kHL64
+--------------------
+--------------------
+The Church of Interruption (2018)
+161 points
+https://sambleckley.com/writing/church-of-interruption.html
+--------------------
+--------------------
+Good conversations have lots of doorknobs
+460 points
+https://experimentalhistory.substack.com/p/good-conversations-have-lots-of-doorknobs
+--------------------
+--------------------
+Our long, vulnerable childhoods may be the key to our success
+13 points
+https://www.spectator.co.uk/article/our-long-vulnerable-childhoods-may-be-the-key-to-our-success
+--------------------
+--------------------
+A compute-in-memory chip based on resistive random-access memory
+55 points
+https://www.nature.com/articles/s41586-022-04992-8
+--------------------
+--------------------
+I Choose Optimism
+30 points
+https://secularhumanism.org/2022/08/i-choose-optimism/
+--------------------
+--------------------
+Gojq: Pure Go Implementation of Jq
+115 points
+https://github.com/itchyny/gojq
+--------------------
+--------------------
+Outdoor Sound Propagation in the U.S. Civil War (1999)
+100 points
+http://wesclark.com/jw/sound_propagation.html
+--------------------
+--------------------
+Ask HN: Anyone working 4 day week here, as an employee?
+179 points
+item?id=32544315
+--------------------
+--------------------
+Did Bach “invent” the rules of music theory?
+75 points
+https://michaelberrymusic.com/blog/2022/8/17/did-bach-invent-the-rules-of-music-theory
+--------------------
+--------------------
+History of Yard Lumber Size Standards (1964) [pdf]
+46 points
+https://www.fpl.fs.fed.us/documnts/misc/miscpub_6409.pdf
+--------------------
+--------------------
+Whatever Happened to Plasma TVs?
+51 points
+https://www.howtogeek.com/823609/whatever-happened-to-plasma-tvs%c2%a0/
+--------------------
+--------------------
+BuildZoom (YC W13) is hiring a principal engineer
+129 points
+https://jobs.lever.co/buildzoom
+--------------------
+--------------------
+Halo system link still holds up more than 20 years later
+30 points
+https://www.theverge.com/2022/8/14/23303392/halo-combat-evolved-system-link-xbox-multiplayer-still-holds-up
+--------------------
+--------------------
+Is There a Curse of the Fields Medal? [pdf]
+112 points
+https://web.math.princeton.edu/~kollar/FromMyHomePage/fm-essay.pdf
+--------------------
+--------------------
+Uacme: ACMEv2 client written in plain C with minimal dependencies
+85 points
+https://github.com/ndilieto/uacme
+--------------------
+--------------------
+Can We Throw Satellites to Space? [video]
+98 points
+https://www.youtube.com/watch?v=yrc632oilWo
+--------------------
+--------------------
+We switched to cursor-based pagination
+78 points
+https://www.moderntreasury.com/journal/shifting-our-apis-pagination-method-from-offset-to-cursor-based
+--------------------
+--------------------
+The Google Pixel 6a highlights the problem with the U.S. phone market
+79 points
+https://www.xda-developers.com/google-pixel-6a-us-market-editorial/
+--------------------
+--------------------
+Secret talks that could have prevented the Apple vs. Facebook war
+45 points
+https://www.wsj.com/articles/inside-the-apple-vs-facebook-privacy-fight-11660317376
+--------------------
