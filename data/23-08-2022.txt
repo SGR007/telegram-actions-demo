@@ -1,0 +1,145 @@
+--------------------
+An odd discovery on Spotify
+268 points
+https://www.robinsloan.com/newsletters/visions/#spotify
+--------------------
+--------------------
+Republishing a fork of the sanctioned Tornado Cash repositories
+229 points
+https://twitter.com/matthew_d_green/status/1561813046338748417
+--------------------
+--------------------
+The best and worst of 1994 and predictions for '95
+70 points
+http://www.panix.com/~kgreenb/iw/bwv6n1.htm
+--------------------
+--------------------
+Military drone swarms and how to combat them
+33 points
+https://smallwarsjournal.com/jrnl/art/military-drone-swarms-and-options-combat-them
+--------------------
+--------------------
+Parsing SQL
+25 points
+https://tomassetti.me/parsing-sql/
+--------------------
+--------------------
+Application submitted for US molten salt research reactor
+383 points
+https://www.world-nuclear-news.org/Articles/Application-submitted-for-US-molten-salt-research
+--------------------
+--------------------
+Using the power of the sun to roast green chile
+171 points
+https://www.sandia.gov/labnews/2022/06/30/using-the-power-of-the-sun-to-roast-green-chile/
+--------------------
+--------------------
+Maps.earth – free and open-source web maps
+553 points
+https://about.maps.earth/
+--------------------
+--------------------
+EV shipping is set to blow internal combustion engines out of the water
+65 points
+https://pv-magazine-usa.com/2022/08/22/ev-shipping-is-set-to-blow-internal-combustion-engines-out-of-the-water/
+--------------------
+--------------------
+A general overview of what happens before main() (2019)
+165 points
+https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/
+--------------------
+--------------------
+The Australian Commodore 64
+26 points
+https://linuxjedi.co.uk/2022/08/19/the-australian-commodore-64/
+--------------------
+--------------------
+Why Apple Will Switch to ARM-Based Macs (2014)
+119 points
+https://www.mattrichman.net/why-apple-will-switch-to-arm-based-macs/
+--------------------
+--------------------
+My black body story (it's physics)
+52 points
+https://commandcenter.blogspot.com/2022/08/my-black-body-story-its-physics.html
+--------------------
+--------------------
+Stripe down for 4 hours (and counting) for all those with Stripe Tax enabled
+286 points
+https://status.stripe.com/
+--------------------
+--------------------
+Risk Everything
+4 points
+http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/
+--------------------
+--------------------
+The Val Object Model: Template for a possible future Swift object model
+7 points
+https://forums.swift.org/t/template-for-a-possible-future-object-model/59823
+--------------------
+--------------------
+Stable Diffusion Public Release
+608 points
+https://stability.ai/blog/stable-diffusion-public-release
+--------------------
+--------------------
+Clip control on the Apple GPU
+250 points
+https://rosenzweig.io/blog/asahi-gpu-part-6.html
+--------------------
+--------------------
+A bike tour of Dresden, the heart of Germany’s semiconductor industry
+103 points
+https://innovationorigins.com/en/on-the-road-with-the-9-euro-ticket-part-8-a-bike-tour-of-dresden-the-heart-of-germanys-semiconductor-industry/
+--------------------
+--------------------
+“I survived the TCP transition” (2013)
+158 points
+https://blog.google/inside-google/googlers/marking-birth-of-modern-day-internet/
+--------------------
+--------------------
+Falsehoods programmers believe about time
+139 points
+https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+--------------------
+--------------------
+Replit (YC W18) Is Hiring ML engineers
+145 points
+https://replit.com/careers
+--------------------
+--------------------
+A plain-text file format for todos and check lists
+25 points
+https://github.com/jotaen/xit
+--------------------
+--------------------
+Young firms, old capital
+10 points
+https://www.sciencedirect.com/science/article/abs/pii/S0304405X21004098
+--------------------
+--------------------
+Electrical currents to the brain improve memory for older adults
+26 points
+https://www.theverge.com/23316230/brain-stimulation-memory-short-long-alzheimers
+--------------------
+--------------------
+Google refuses to reinstate account after man took medical images of son’s groin
+118 points
+https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked
+--------------------
+--------------------
+Reflections on my time in Y Combinator
+5 points
+https://chrisfrantz.com/reflections-on-my-time-in-y-combinator/
+--------------------
+--------------------
+Accelerating QEMU on Windows with HAXM (2017)
+37 points
+https://www.qemu.org/2017/11/22/haxm-usage-windows/
+--------------------
+--------------------
+The web is a harsh manager
+45 points
+https://daverupert.com/2022/08/web-is-a-harsh-manager/
+--------------------
