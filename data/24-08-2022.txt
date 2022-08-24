@@ -1,0 +1,145 @@
+--------------------
+Design the next iPhone
+1152 points
+https://neal.fun/design-the-next-iphone/
+--------------------
+--------------------
+Common tech jobs described as cabals of Mesoamerican wizards
+170 points
+https://etiennefd.substack.com/p/common-tech-jobs-described-as-cabals
+--------------------
+--------------------
+The future of Nginx: Getting back to our open source roots
+162 points
+https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/
+--------------------
+--------------------
+Effects of large vehicles on pedestrian and pedal-cyclist injury severity
+90 points
+https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810
+--------------------
+--------------------
+Godot 4.0 will discontinue visual scripting
+103 points
+https://godotengine.org/article/godot-4-will-discontinue-visual-scripting
+--------------------
+--------------------
+Oven: The Company Behind Bun
+111 points
+https://oven.sh
+--------------------
+--------------------
+FreeBSD on the Framework Laptop
+193 points
+https://xyinn.org/md/freebsd/framework_laptop
+--------------------
+--------------------
+How Does Shazam Work? Music Recognition Algorithms, Fingerprinting (2015)
+61 points
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
+--------------------
+--------------------
+The Futures of Inform
+109 points
+https://ganelson.github.io/inform-website/talks/2022/07/31/narrascope-iii.html
+--------------------
+--------------------
+The CRPG Addict
+79 points
+http://crpgaddict.blogspot.com/
+--------------------
+--------------------
+Perfluorocubane is (as you would expect) weird
+236 points
+https://www.science.org/content/blog-post/perfluorocubane-you-would-expect-weird
+--------------------
+--------------------
+The Myth of Mass Collaboration
+32 points
+https://staltz.com/the-myth-of-mass-collaboration.html
+--------------------
+--------------------
+TypeScript is terrible for library developers
+257 points
+https://erock.prose.sh/typescript-terrible-for-library-developers
+--------------------
+--------------------
+Is Publishing About Art or Commerce?
+7 points
+https://www.newyorker.com/books/page-turner/is-publishing-about-art-or-commerce-penguin-random-house-simon-schuster-antitrust
+--------------------
+--------------------
+The History of Microsoft Flight Simulator
+84 points
+https://s-macke.github.io/FSHistory/
+--------------------
+--------------------
+Show HN: Open Source Canva Clone
+184 points
+https://github.com/layerhub-io/react-design-editor
+--------------------
+--------------------
+Ask HN: DALL-E was trained on watermarked stock images?
+67 points
+item?id=32573523
+--------------------
+--------------------
+Amazon, Verizon found using IPv4 240/4 addresses
+147 points
+https://labs.ripe.net/author/qasim-lone/2404-as-seen-by-ripe-atlas/
+--------------------
+--------------------
+Is there hope for Linux on smartphones? [video]
+99 points
+https://media.ccc.de/v/froscon2022-2797-is_there_hope_for_linux_on_smartphones
+--------------------
+--------------------
+What's the big deal about embedded key-value databases?
+125 points
+https://notes.eatonphil.com/whats-the-big-deal-about-key-value-databases.html
+--------------------
+--------------------
+Release (YC W20) Is Hiring a Senior Product Manager
+153 points
+https://www.ycombinator.com/companies/release/jobs/t72DUPj-senior-product-manager
+--------------------
+--------------------
+Issues with upstream DNS provider
+230 points
+https://status.heroku.com/incidents/2453
+--------------------
+--------------------
+Every action you take is a vote for the type of person you wish to become
+23 points
+https://jeremyeder.com/2022/08/16/every-action-you-take-is-a-vote-for-the-type-of-person-you-wish-to-become/
+--------------------
+--------------------
+Catching Sanitizer Errors Programmatically
+128 points
+https://lemire.me/blog/2022/08/20/catching-sanitizer-errors-programmatically/
+--------------------
+--------------------
+We used Elixir's Observer to hunt down bottlenecks
+5 points
+https://blog.sequin.io/how-we-used-elixirs-observer-to-hunt-down-bottlenecks/
+--------------------
+--------------------
+Tesla Dojo Custom AI Supercomputer at HC34
+6 points
+https://www.servethehome.com/tesla-dojo-custom-ai-supercomputer-at-hc34/
+--------------------
+--------------------
+Show HN: Digital Products as a Side Hustle; a list of successful examples
+108 points
+https://www.marindie.com/digital-products/
+--------------------
+--------------------
+Pure Data: an open source visual language for multimedia
+8 points
+https://puredata.info/
+--------------------
+--------------------
+Outcomes, Mistakes, and the Nuance of Error Handling
+140 points
+https://izzys.casa/2022/01/outcomes-mistakes-and-nuance/
+--------------------
