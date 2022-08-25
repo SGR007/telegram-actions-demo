@@ -1,0 +1,145 @@
+--------------------
+Patent Trolls Inbound: Our First Lawsuit
+525 points
+https://blog.comma.ai/ourfirstlawsuit/
+--------------------
+--------------------
+Why your website should be under 14kb in size
+199 points
+https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/
+--------------------
+--------------------
+EPB launches America’s first community-wide 25 gig internet service
+252 points
+https://epb.com/newsroom/press-releases/epb-launches-americas-first-community-wide-25-gig-internet-service/
+--------------------
+--------------------
+You Can 3D Print and Build This 164mm f/2.5 Lens for Less Than $15
+85 points
+https://petapixel.com/2022/08/22/you-can-3d-print-and-build-this-164mm-f-2-5-lens-for-less-than-15/
+--------------------
+--------------------
+The end of the manual transmission is near?
+86 points
+https://www.popularmechanics.com/cars/a40900795/the-end-of-the-manual-transmission/
+--------------------
+--------------------
+Starlink is reducing your monthly service fee
+80 points
+item?id=32588703
+--------------------
+--------------------
+Why do arrays start at 0?
+321 points
+https://buttondown.email/hillelwayne/archive/why-do-arrays-start-at-0/
+--------------------
+--------------------
+Psilocybin-assisted psychotherapy vs. placebo in treatment of alcohol disorder
+117 points
+https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2795625
+--------------------
+--------------------
+OpenArt: “Pinterest” for Dalle-2 images and prompts
+118 points
+https://openart.ai/
+--------------------
+--------------------
+5G Networks Are Worryingly Hackable
+24 points
+https://spectrum.ieee.org/5g-virtualization-increased-hackability
+--------------------
+--------------------
+A Theoretical Justification (2021)
+71 points
+https://memex.marginalia.nu/projects/edge/about.gmi#1.2
+--------------------
+--------------------
+Korea shatters its own record for world’s lowest fertility rate
+133 points
+https://www.bloomberg.com/news/articles/2022-08-24/fastest-aging-wealthy-economy-breaks-own-fertility-record-again
+--------------------
+--------------------
+Notes on Theory of Distributed Systems [pdf]
+139 points
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf
+--------------------
+--------------------
+Tether will not freeze Tornado Cash addresses
+99 points
+https://tether.to/en/tether-holds-firm-on-decision-not-to-freeze-tornado-cash-addresses-awaits-law-enforcement-instruction/
+--------------------
+--------------------
+Email doesn't suck – it's email clients that need improving
+192 points
+https://www.wired.com/story/email-clients-are-bad-so-use-vivaldi-mail/
+--------------------
+--------------------
+Imagen: An AI system that creates photorealistic images from input text
+10 points
+https://imagen.research.google
+--------------------
+--------------------
+The Four Dirty C-Words of the Internet
+16 points
+https://pauljun.me/the-four-dirty-c-words-of-the-internet
+--------------------
+--------------------
+GeForce Now: A Review
+108 points
+https://whatever.scalzi.com/2022/08/24/geforce-now-a-review/
+--------------------
+--------------------
+How SQLite scales read concurrency
+199 points
+https://fly.io/blog/sqlite-internals-wal/
+--------------------
+--------------------
+An Industrial-Strength Audio Search Algorithm [pdf]
+8 points
+https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf
+--------------------
+--------------------
+Debian's Chromium changes default search engine to DDG
+346 points
+https://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg760508.html
+--------------------
+--------------------
+Smarking (YC W15) is hiring a product lead to digitize the parking industry
+161 points
+https://jobs.lever.co/smarking/3e6e8c04-8aaa-48f5-86e5-70386f857c55
+--------------------
+--------------------
+AI-designed camera only records objects of interest while being blind to others
+103 points
+https://cnsi.ucla.edu/project/august-15-2022-ai-designed-camera-only-records-objects-of-interest-while-being-blind-to-others/
+--------------------
+--------------------
+Spate of polio outbreaks worldwide puts scientists on alert
+91 points
+https://www.nature.com/articles/d41586-022-02233-6
+--------------------
+--------------------
+LibVF.IO: Add support for GPU Virtual Machine (GVM)
+119 points
+https://arccompute.com/blog/libvfio-add-gvm-support/
+--------------------
+--------------------
+Finally fixed my PC’s persistent graphics and audio stutters
+3 points
+https://www.ctrl.blog/entry/troubleshoot-stuttering.html
+--------------------
+--------------------
+A Regular Expression in 30 Lines of C
+79 points
+https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
+--------------------
+--------------------
+John Carmack on avoiding distractions
+56 points
+https://twitter.com/ID_AA_Carmack/status/1562104562219196416
+--------------------
+--------------------
+PlanBags Has Retired 1968-2021
+76 points
+https://planbags.com/
+--------------------
