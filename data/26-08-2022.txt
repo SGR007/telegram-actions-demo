@@ -1,0 +1,145 @@
+--------------------
+SpaceX, T-Mobile to connect satellites to cellphones in remote areas
+310 points
+https://www.wsj.com/articles/spacex-and-t-mobile-to-connect-starlink-satellites-to-cellphones-in-remote-parts-of-u-s-11661473520
+--------------------
+--------------------
+Your online identity is owned by your email provider (2019)
+45 points
+https://www.ctrl.blog/entry/email-identity-provider.html
+--------------------
+--------------------
+Show HN: Devbox – Easy, predictable shells and containers
+234 points
+https://github.com/jetpack-io/devbox
+--------------------
+--------------------
+What have we lost? – Demo of exotic OSes (2021) [video]
+229 points
+https://www.youtube.com/watch?v=7RNbIEJvjUA
+--------------------
+--------------------
+Sanyo Triple Five
+56 points
+https://www.leadedsolder.com/2022/08/23/sanyo-mbc555-power-supply-swap-pickup.html
+--------------------
+--------------------
+The Jupyter+Git problem is now solved
+30 points
+https://www.fast.ai/2022/08/25/jupyter-git/
+--------------------
+--------------------
+Unstripping Stripped Binaries
+6 points
+http://lock.cmpxchg8b.com/symbols.html
+--------------------
+--------------------
+DuckDuckGo email protection beta now open
+280 points
+https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/
+--------------------
+--------------------
+“Science must respect the dignity and rights of all humans”
+267 points
+https://www.nature.com/articles/s41562-022-01443-2
+--------------------
+--------------------
+Creativity requires solitude
+269 points
+https://dkb.show/post/creativity-requires-solitude
+--------------------
+--------------------
+YaCy – your own search engine
+210 points
+https://yacy.net/
+--------------------
+--------------------
+Chez Scheme
+84 points
+https://github.com/cisco/ChezScheme
+--------------------
+--------------------
+Cybersecurity in 1989: Looking back at “The Cuckoo's Egg” (2015)
+81 points
+https://www.lawfareblog.com/cybersecurity-1989-looking-back-cliff-stolls-classic-cuckoos-egg
+--------------------
+--------------------
+Apple M2 Pro to use new 3nm process
+243 points
+https://www.cultofmac.com/788200/why-the-apple-m2-pro-processor-will-be-even-better-than-expected/
+--------------------
+--------------------
+Launch HN: Artemis (YC S22) – Use comments to give code an interactive interface
+61 points
+item?id=32598603
+--------------------
+--------------------
+Removal of Heroku free product plans
+779 points
+https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq
+--------------------
+--------------------
+A Graph-Based Firebase
+135 points
+https://stopa.io/post/296
+--------------------
+--------------------
+Low-Background Steel (2018)
+58 points
+https://www.chemistryworld.com/podcasts/low-background-steel/3009874.article
+--------------------
+--------------------
+Guidance to make federally funded research freely available without delay
+886 points
+https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/
+--------------------
+--------------------
+Mudge's redacted Twitter whistleblower disclosure [pdf]
+70 points
+https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf
+--------------------
+--------------------
+Irata.online: A PLATO service for retro computing enthusiasts
+38 points
+https://irata.online/
+--------------------
+--------------------
+Soketi: Simple, fast and resilient open-source WebSockets server
+56 points
+https://soketi.app/
+--------------------
+--------------------
+The History of Scott/Tiger
+4 points
+https://wmarkito.wordpress.com/2008/11/07/the-history-of-scotttiger/
+--------------------
+--------------------
+Thinking as Computation (2011) [pdf]
+30 points
+https://www.cs.toronto.edu/~hector/PublicTCSlides.pdf
+--------------------
+--------------------
+Why there's no 'Dijon' in Dijon mustard
+32 points
+https://www.bbc.com/travel/article/20220816-why-theres-no-dijon-in-dijon-mustard
+--------------------
+--------------------
+The top layer: a solution to z-index:10000
+94 points
+https://developer.chrome.com/blog/what-is-the-top-layer/
+--------------------
+--------------------
+Why Is a British Baroness Drafting California Censorship Laws?
+18 points
+https://www.techdirt.com/2022/08/25/why-is-a-british-baroness-drafting-california-censorship-laws/
+--------------------
+--------------------
+Subscriptions are out, refills are in
+102 points
+https://bluepnume.medium.com/subscriptions-are-out-refills-are-in-311fd6e41e5e
+--------------------
+--------------------
+How to play continuous blackjack
+9 points
+https://www.amolas.dev/blog/continuous-blackjack-i/
+--------------------
