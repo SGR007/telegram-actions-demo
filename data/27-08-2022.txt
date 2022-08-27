@@ -1,0 +1,150 @@
+--------------------
+One kitchen, hundreds of internet restaurants
+120 points
+https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet
+--------------------
+--------------------
+What’s Going on with Security at PayPal?
+35 points
+https://christianvarga.com/whats-going-on-with-security-at-paypal/
+--------------------
+--------------------
+Slack’s free plan change is causing an exodus
+304 points
+https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/
+--------------------
+--------------------
+Ushering Out Strlcpy()
+49 points
+https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/
+--------------------
+--------------------
+Engineer distributes resume via IPv6 traceroute
+492 points
+https://cv6.poinsignon.org/
+--------------------
+--------------------
+Microsoft Clipchamp
+54 points
+https://clipchamp.com/en/windows-video-editor/
+--------------------
+--------------------
+Hackintosh: Run newer macOS on decades old Mac with OpenCore
+70 points
+https://dortania.github.io/OpenCore-Legacy-Patcher/START.html
+--------------------
+--------------------
+Zuckerberg tells Rogan FBI warning prompted Biden laptop story censorship
+87 points
+https://www.bbc.com/news/world-us-canada-62688532
+--------------------
+--------------------
+Ghana bans a Delta Boeing 767 (yes, just one)
+223 points
+https://onemileatatime.com/news/ghana-bans-delta-boeing-767/
+--------------------
+--------------------
+Unidentified Aerial Phenomena
+36 points
+https://arxiv.org/abs/2208.11215
+--------------------
+--------------------
+The cursed computer iceberg meme (2021)
+148 points
+https://suricrasia.online/iceberg/
+--------------------
+--------------------
+Use TouchID to Authenticate Sudo on macOS
+246 points
+https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/
+--------------------
+--------------------
+Things I Won't Work With: Azidoazide Azides, More or Less (2013)
+238 points
+https://www.science.org/content/blog-post/things-i-won-t-work-azidoazide-azides-more-or-less
+--------------------
+--------------------
+Chrome allows websites to write to the clipboard without the user’s permission
+112 points
+item?id=32614037
+--------------------
+--------------------
+Panic at the Library
+16 points
+https://www.laphamsquarterly.org/roundtable/panic-library
+--------------------
+--------------------
+Gen Z and the rise of influencer culture
+4 points
+https://www.highervisibility.com/blog/gen-z-and-the-rise-of-influencer-culture/
+--------------------
+--------------------
+Tactical Combat Umbrella
+24 points
+https://thepreparednessexperience.com/tactical-umbrellas-self-defense/
+--------------------
+--------------------
+Show HN: Subreddit Finder – find subreddits based on a topic
+27 points
+https://segue.co/subreddit/
+--------------------
+--------------------
+Meta Is Building an AI to Fact-Check Wikipedia–All 6.5M Articles
+35 points
+https://singularityhub.com/2022/08/26/meta-is-building-an-ai-to-fact-check-wikipedia-all-6-5-million-articles/
+--------------------
+--------------------
+What Next? (2017)
+7 points
+https://graydon2.dreamwidth.org/253769.html
+--------------------
+--------------------
+13 Months: The Kodak Calendar Experiment
+71 points
+https://theinternetsaysitstrue.com/2022/03/28/13-months-the-kodak-calendar-experiment/
+--------------------
+--------------------
+NumWorks: An open-source graphing calculator (with Python and Rust support)
+89 points
+https://www.numworks.com/
+--------------------
+--------------------
+USPTO to add surcharge on non-DOCX patent applications in 2023
+133 points
+https://unblock.federalregister.gov
+--------------------
+--------------------
+Depending in Common Lisp
+89 points
+https://stevelosh.com/blog/2022/08/depending-in-common-lisp/
+--------------------
+--------------------
+Finnish as a world language?
+298 points
+https://www.hagen-schmidt.de/suomi/worldlanguage.html
+--------------------
+--------------------
+O&O App Buster removes Windows Apps you don’t want
+58 points
+https://www.oo-software.com/en/ooappbuster
+--------------------
+--------------------
+We disabled Google AMP at Tribune Publishing
+199 points
+https://kurtgessler.medium.com/what-happened-when-we-disabled-google-amp-at-tribune-publishing-2fa65a2f2a40
+--------------------
+--------------------
+Becoming a Centaur
+7 points
+https://aeon.co/essays/horse-human-cooperation-is-a-neurobiological-miracle
+--------------------
+--------------------
+Unifying fold left and fold right in Prolog
+75 points
+https://gopiandcode.uk/logs/log-unifying-folds.html
+--------------------
+--------------------
+Why no Roman industrial revolution?
+422 points
+https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/
+--------------------
