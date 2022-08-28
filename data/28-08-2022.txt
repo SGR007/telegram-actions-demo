@@ -1,0 +1,145 @@
+--------------------
+Time Till Open Source Alternative
+179 points
+https://staltz.com/time-till-open-source-alternative.html
+--------------------
+--------------------
+American chestnut tree in Centreville is the 'holy grail' for conservationists
+299 points
+https://www.delawareonline.com/story/news/2022/08/26/american-chestnut-tree-discovery-in-delaware-wows-conservationists/65414649007/
+--------------------
+--------------------
+Gimp development release 2.99.12 includes initial CMYK support
+61 points
+https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/
+--------------------
+--------------------
+The UNIX Programming Environment (1984)
+167 points
+https://archive.org/details/UnixProgrammingEnviornment
+--------------------
+--------------------
+Acorn: A lightweight PaaS for Kubernertes, from Rancher founders
+64 points
+https://acorn.io/
+--------------------
+--------------------
+Reading fast, reading well, and reading widely
+67 points
+https://www.driverlesscrocodile.com/books-and-recommendations/tyler-cowen-on-reading-fast-reading-well-and-reading-widely/
+--------------------
+--------------------
+The Obsessive Pleasures of Mechanical-Keyboard Tinkerers
+62 points
+https://www.newyorker.com/tech/annals-of-technology/the-obsessive-pleasures-of-mechanical-keyboard-tinkerers
+--------------------
+--------------------
+Old Problem About Mathematical Curves Falls to Young Couple
+86 points
+https://www.quantamagazine.org/old-problem-about-algebraic-curves-falls-to-young-mathematicians-20220825/
+--------------------
+--------------------
+A new Linux handheld game console based on ODROID-N2
+213 points
+https://forum.odroid.com/viewtopic.php?t=45143
+--------------------
+--------------------
+Heroku to discontinue free product plans and delete inactive accounts
+117 points
+https://blog.heroku.com/next-chapter
+--------------------
+--------------------
+Why a 224-Year-Old Human Heart Is Touring Brazil
+15 points
+https://www.atlasobscura.com/articles/dom-pedro-heart-portugal-brazil
+--------------------
+--------------------
+Samba on Linux the Easy Way
+22 points
+https://glovesoff.substack.com/p/samba-on-linux-the-easy-way
+--------------------
+--------------------
+The Penguin Random House trial
+89 points
+https://shush.substack.com/p/the-biggest-story-in-books
+--------------------
+--------------------
+A Programming Language Database
+166 points
+https://github.com/breck7/pldb
+--------------------
+--------------------
+Why Is This Colorful Little Wheel Suddenly Everywhere in Japan?
+35 points
+https://www.nytimes.com/2022/08/25/business/japan-sdg.html
+--------------------
+--------------------
+Relax for the Same Result
+8 points
+https://sive.rs/relax
+--------------------
+--------------------
+Interlisp Online
+69 points
+https://online.interlisp.org/user/login
+--------------------
+--------------------
+Corman Lisp development environment for MS Windows
+6 points
+https://github.com/sharplispers/cormanlisp
+--------------------
+--------------------
+Intel enters a new era of chiplets
+108 points
+https://www.servethehome.com/intel-enters-a-new-era-of-chiplets-that-will-change-everything-34/
+--------------------
+--------------------
+Guide to Writing Online
+4 points
+https://perell.com/essay/the-ultimate-guide-to-writing-online/
+--------------------
+--------------------
+Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring
+50 points
+https://skio.com/careers/
+--------------------
+--------------------
+How Mondragon Became the World's Largest Co-Op
+25 points
+https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op
+--------------------
+--------------------
+Namecheap vulnerability they refuse to fix: no 2FA on support portal login
+144 points
+https://crimew.gay/notice/AMxFUTYtsMNtzbDzQu
+--------------------
+--------------------
+Show HN: A piano chord reference tool
+23 points
+https://pianochord.io/
+--------------------
+--------------------
+Five Ways to Write Like The Economist [pdf]
+28 points
+https://www.legalwritingpro.com/pdf/the-economist.pdf
+--------------------
+--------------------
+Volkswriter Deluxe – One of the first word processors for the IBM PC
+122 points
+https://computeradsfromthepast.substack.com/p/volkswriter-deluxe
+--------------------
+--------------------
+The art of sharpening pencils (2007)
+35 points
+https://matthewjamestaylor.com/sharpening-pencils
+--------------------
+--------------------
+How the National Environmental Policy Act (NEPA) Works
+54 points
+https://constructionphysics.substack.com/p/how-nepa-works
+--------------------
+--------------------
+Crawler Hints supports Microsoft’s IndexNow in helping users find new content
+45 points
+https://blog.cloudflare.com/crawler-hints-supports-microsofts-indexnow-in-helping-users-find-new-content/
+--------------------
