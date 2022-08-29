@@ -1,0 +1,150 @@
+--------------------
+Try Stable Diffusion's Img2Img Mode
+129 points
+https://huggingface.co/spaces/huggingface/diffuse-the-rest
+--------------------
+--------------------
+Wren is a small, fast, class-based concurrent scripting language
+203 points
+https://wren.io
+--------------------
+--------------------
+Weird monitor bugs people sent me in the last 5 years
+384 points
+https://notes.alinpanaitiu.com/Weird%20monitor%20bugs
+--------------------
+--------------------
+Hear the World’s Oldest Known Song, “Hurrian Hymn No. 6” Written 3400 Years Ago
+15 points
+https://www.openculture.com/2022/08/hear-the-worlds-oldest-known-song-hurrian-hymn-no-6-written-3400-years-ago.html
+--------------------
+--------------------
+Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later
+84 points
+https://xcellerator.github.io/posts/tetsuji/
+--------------------
+--------------------
+Unofficial guide to dotfiles on GitHub
+123 points
+https://dotfiles.github.io/
+--------------------
+--------------------
+My Lack of Attention
+27 points
+https://www.champonthis.de/dev/rand/lack-of-attention
+--------------------
+--------------------
+Open Circuits – No Starch Press [pdf]
+199 points
+https://nostarch.com/download/OpenCircuits_Chapter1.pdf
+--------------------
+--------------------
+An intriguing discovery of Computer Science: The Y combinator [video]
+68 points
+https://www.youtube.com/watch?v=QuXJ3kXUCiU
+--------------------
+--------------------
+We are all nerds: The literary works of Neal Stephenson
+241 points
+https://bastian.rieck.me/blog/posts/2022/neal_stephenson/
+--------------------
+--------------------
+PostgreSQL 15: Stats Collector Gone? What’s New?
+58 points
+https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/
+--------------------
+--------------------
+The Quest for Fuel in World War II (1993)
+86 points
+http://www.eiaonline.com/history/bloodforoil.htm
+--------------------
+--------------------
+Upscayl – Free and Open Source AI Image Upscaler for Linux, macOS and Windows
+223 points
+https://github.com/upscayl/upscayl
+--------------------
+--------------------
+ValueObject
+22 points
+https://martinfowler.com/bliki/ValueObject.html
+--------------------
+--------------------
+The Up-Goer Five Text Editor
+29 points
+https://splasho.com/upgoer5/
+--------------------
+--------------------
+An Intuition for Lisp Syntax
+120 points
+https://stopa.io/post/265
+--------------------
+--------------------
+After years of setbacks, NASA’s SLS moon rocket is ready to fly
+89 points
+https://www.washingtonpost.com/technology/2022/08/27/nasa-sls-moon-artemis-human-space/
+--------------------
+--------------------
+An Introduction to PipeWire
+169 points
+https://bootlin.com/blog/an-introduction-to-pipewire/
+--------------------
+--------------------
+Gairoscope: Injecting Data from Air-Gapped Computers to Nearby Gyroscopes
+7 points
+https://techcrunch.com/2022/08/24/gairoscope-air-gap-attack/
+--------------------
+--------------------
+Presentation: Four programming languages from forty years ago (2018)
+60 points
+https://fsharpforfunandprofit.com/fourfromforty/
+--------------------
+--------------------
+Fissure: The RF and Reverse Engineering Framework for Everyone
+178 points
+https://github.com/ainfosec/FISSURE
+--------------------
+--------------------
+Permaculture Water Systems of the Seven Seeds Farm [video]
+88 points
+https://www.youtube.com/watch?v=BuYGS5pLRZg
+--------------------
+--------------------
+Vertex Meadow
+25 points
+https://www.vertexmeadow.xyz/
+--------------------
+--------------------
+The fight against drought in California has a new tool: The restrictor
+108 points
+https://lite.cnn.com/en/article/h_cd89eccf059599965e2244435012cde5
+--------------------
+--------------------
+Stable Diffusion Is the Most Important AI Art Model Ever
+217 points
+https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important
+--------------------
+--------------------
+Ask HN: How much info should founders share with early stage employees?
+144 points
+item?id=32616270
+--------------------
+--------------------
+NASA Live Stream: Artemis I launch coverage
+9 points
+https://www.nasa.gov/nasalive/
+--------------------
+--------------------
+Wizz Air now charging some travellers a strange extra fee (2020)
+212 points
+https://thepointsguy.co.uk/news/wizz-air-ad-blocking-fee/
+--------------------
+--------------------
+How Segment Found Product Market Fit
+78 points
+https://bip.so/@TIL_/How-Segment-Found-PMF-bDaLg
+--------------------
+--------------------
+Why I quit using SwiftUI
+184 points
+https://chsxf.dev/2022/08/28/5-tup-why-i-quit-using-swiftui.html
+--------------------
