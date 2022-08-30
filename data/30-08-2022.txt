@@ -1,0 +1,145 @@
+--------------------
+The Big [Censored] Theory
+998 points
+https://pudding.cool/2022/08/censorship/
+--------------------
+--------------------
+New Zealand's plan to prepare for inevitable climate change impacts
+41 points
+https://www.rnz.co.nz/news/on-the-inside/472305/new-zealand-s-plan-to-prepare-for-inevitable-climate-change-impacts-five-areas-where-the-hard-work-starts-now
+--------------------
+--------------------
+Stable Diffusion Textual Inversion
+249 points
+https://github.com/hlky/sd-enable-textual-inversion
+--------------------
+--------------------
+Don’t think to write, write to think
+227 points
+https://herbertlui.net/dont-think-to-write-write-to-think/
+--------------------
+--------------------
+90s Cursor Effects
+436 points
+https://tholman.com/cursor-effects/
+--------------------
+--------------------
+Why are you so busy?
+142 points
+https://tomlingham.com/articles/why-are-you-so-busy/
+--------------------
+--------------------
+WireGuard Servers Running from RAM
+66 points
+https://mullvad.net/tr/help/wireguard-servers-running-from-ram/
+--------------------
+--------------------
+Welcome Home, Garry Tan
+658 points
+https://www.ycombinator.com/blog/welcome-home-garry-tan/
+--------------------
+--------------------
+PowerUp: IDE Decompilation and Disassembly Tools
+25 points
+https://github.com/badamczewski/PowerUp
+--------------------
+--------------------
+London’s History, Washed Up on the Shores of the Thames
+16 points
+https://hyperallergic.com/731564/londons-history-washed-up-on-the-shores-of-the-thames/
+--------------------
+--------------------
+Packed structs in Zig make bit/flag sets trivial
+6 points
+https://devlog.hexops.com/2022/packed-structs-in-zig/
+--------------------
+--------------------
+Run Stable Diffusion on Intel CPUs
+158 points
+https://github.com/bes-dev/stable_diffusion.openvino
+--------------------
+--------------------
+CA Design Code Law AB-2273: You’ll Scan Your Face for Every Website You Visit
+73 points
+https://www.techdirt.com/2022/08/29/age-verification-providers-say-dont-worry-about-california-design-code-youll-just-have-to-scan-your-face-for-every-website-you-visit/
+--------------------
+--------------------
+Microformats Wiki
+95 points
+http://microformats.org/wiki/Main_Page
+--------------------
+--------------------
+Supporting four operating systems in a 400 byte ELF executable
+80 points
+https://justine.lol/sizetricks/#elf
+--------------------
+--------------------
+Why 12 notes in Western music?
+209 points
+https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb
+--------------------
+--------------------
+Python library for univariate regression, interpolation, and smoothing
+38 points
+https://github.com/brendanartley/Regressio
+--------------------
+--------------------
+Rewriting my blog in Rust for fun and profit
+194 points
+https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/
+--------------------
+--------------------
+The Peter Principle (1974) [video]
+44 points
+https://www.youtube.com/watch?v=39wzku9KIEM
+--------------------
+--------------------
+Project Highwater
+9 points
+https://en.wikipedia.org/wiki/Project_Highwater
+--------------------
+--------------------
+Giant Keyboard Is Just Our Type
+6 points
+https://hackaday.com/2022/08/27/giant-keyboard-is-just-our-type/
+--------------------
+--------------------
+EasyPost (YC S13) Is Hiring
+40 points
+https://www.easypost.com/careers
+--------------------
+--------------------
+C++ Expression Templates: Eigen, Blaze, Fastor, Armadillo & XTensor (2020)
+26 points
+https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982
+--------------------
+--------------------
+Psychological Problems of Interplanetary Travel (1975)
+108 points
+https://archive.org/details/leonov-lebedev-psychological-problems-of-interplanetary-travel-1975
+--------------------
+--------------------
+The OK? Programming Language
+149 points
+https://github.com/jesseduffield/OK
+--------------------
+--------------------
+Rights, Laws, and Google
+62 points
+https://stratechery.com/2022/rights-laws-and-google/
+--------------------
+--------------------
+Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more
+115 points
+https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon
+--------------------
+--------------------
+Are GPUs Worth It for ML?
+63 points
+https://exafunction.com/blog/are-gpus-worth-it
+--------------------
+--------------------
+C++ coroutines: Understanding the compiler transform
+65 points
+https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform
+--------------------
