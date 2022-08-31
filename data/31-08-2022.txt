@@ -1,0 +1,150 @@
+--------------------
+Visual Studio Code is designed to fracture
+123 points
+https://ghuntley.com/fracture/
+--------------------
+--------------------
+DJI Drone Flies over the Top of Mount Everest
+186 points
+https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/
+--------------------
+--------------------
+Stable Diffusion is a big deal
+119 points
+https://simonwillison.net/2022/Aug/29/stable-diffusion/
+--------------------
+--------------------
+Stable Diffusion Animation
+22 points
+https://replicate.com/andreasjansson/stable-diffusion-animation
+--------------------
+--------------------
+Exploring 12M of the 2.3B images used to train Stable Diffusion
+246 points
+https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
+--------------------
+--------------------
+Show HN: AutoHotkey for Linux
+319 points
+https://github.com/phil294/AHK_X11
+--------------------
+--------------------
+Royal Caribbean to use SpaceX's Starlink to provide internet onboard their fleet
+145 points
+https://www.rclinvestor.com/press-releases/release/
+--------------------
+--------------------
+Xcode Cloud overview
+154 points
+https://developer.apple.com/xcode-cloud/
+--------------------
+--------------------
+4.2 Gigabytes, Or: How to Draw Anything
+1189 points
+https://andys.page/posts/how-to-draw/
+--------------------
+--------------------
+Where Is the Oldest Pub in Britain?
+15 points
+https://www.historyextra.com/period/general-history/britain-england-oldest-pub-where-how-identify/
+--------------------
+--------------------
+HashiCorp’s Multi-Product Strategy for Taking over a $630B Industry
+58 points
+https://foundationinc.co/lab/hashicorp-product-led-growth
+--------------------
+--------------------
+Software Engineering Research Questions
+10 points
+https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html
+--------------------
+--------------------
+Mikhail Gorbachev has died
+675 points
+https://www.reuters.com/world/mikhail-gorbachev-who-ended-cold-war-dies-aged-92-agencies-2022-08-30/
+--------------------
+--------------------
+D2: A new declarative language to turn text into diagrams
+243 points
+https://d2-lang.com/tour/intro
+--------------------
+--------------------
+Losslessly Optimising Images
+26 points
+https://rubenerd.com/losslessly-optimise-images/
+--------------------
+--------------------
+Launch HN: Be Golden (YC S22) – Measure and manage your inflammation levels
+175 points
+item?id=32650142
+--------------------
+--------------------
+List of Creepypastas
+107 points
+https://en.wikipedia.org/wiki/List_of_creepypastas
+--------------------
+--------------------
+Programming on 34 Keys
+14 points
+https://peppe.rs/posts/programming_on_34_keys/
+--------------------
+--------------------
+In the battle over the right to repair, open-source tractors offer alternatives
+62 points
+https://civileats.com/2022/04/27/right-to-repair-open-source-tractors-john-deere-oggun-farms-profitability-technology/
+--------------------
+--------------------
+The Dynamic Runtime Inlining project
+64 points
+https://github.com/drti
+--------------------
+--------------------
+How to Get into Tabletop RPGs
+50 points
+https://www.youtube.com/watch?v=N9NtdF51GWE
+--------------------
+--------------------
+Historical patterns and sustainability implications of worldwide bicycle use
+5 points
+https://www.nature.com/articles/s43247-022-00497-4
+--------------------
+--------------------
+Writing a toy WebSocket server from scratch
+97 points
+https://alexanderell.is/posts/websockets-from-scratch/
+--------------------
+--------------------
+Converting a fisheye image into a panoramic, spherical or perspective projection
+164 points
+http://paulbourke.net/dome/fish2/
+--------------------
+--------------------
+Fed expects to launch long-awaited Faster Payments System by 2023
+147 points
+https://forkast.news/headlines/fed-faster-payments-system-by-2023/
+--------------------
+--------------------
+Show HN: EthicalAds – Privacy-first ad network for developers
+167 points
+https://www.ethicalads.io
+--------------------
+--------------------
+REPL Driven Minecraft
+176 points
+https://www.juxt.pro/blog/repl-driven-minecraft
+--------------------
+--------------------
+How the Consumer Computer Is Consuming Computing
+70 points
+https://schmud.de/posts/2022-08-23-the-consumer-computer.html
+--------------------
+--------------------
+Git’s database internals II: commit history queries
+119 points
+https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/
+--------------------
+--------------------
+A simple paint job can save birds from wind turbines
+162 points
+https://www.anthropocenemagazine.org/2020/09/a-simple-paint-job-can-save-birds-from-wind-turbines/
+--------------------
