@@ -1,0 +1,150 @@
+--------------------
+Former world champion reveals that she was ordered to lose Olympic semi-final
+297 points
+https://sport.tv2.dk/badminton/2022-08-27-former-world-champion-reveals-that-she-was-ordered-to-lose-olympic-semi-final
+--------------------
+--------------------
+Compressing Images with Stable Diffusion
+47 points
+https://www.stavros.io/posts/compressing-images-with-stable-diffusion/
+--------------------
+--------------------
+Dear Linux, Privileged Ports Must Die
+153 points
+https://ar.al/2022/08/30/dear-linux-privileged-ports-must-die/
+--------------------
+--------------------
+WebKit on GitHub
+349 points
+https://webkit.org/blog/13140/webkit-on-github/
+--------------------
+--------------------
+Random Google Street View
+45 points
+https://randomstreetview.com/
+--------------------
+--------------------
+Falsehoods programmers believe about email
+9 points
+https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email
+--------------------
+--------------------
+The Dictatorship of the Articulate
+54 points
+https://florentcrivello.com/index.php/2022/09/01/the-dictatorship-of-the-articulate/
+--------------------
+--------------------
+Another ship stuck in Suez Canal – Affinity V
+79 points
+https://www.marinetraffic.com/en/ais/home/centerx:32.570/centery:30.084/zoom:17
+--------------------
+--------------------
+Cognitive loads in programming
+217 points
+https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html
+--------------------
+--------------------
+US Government Bans Export of Nvidia A100 and H100 GPUs to China and Russia
+419 points
+https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000146/nvda-20220826.htm
+--------------------
+--------------------
+Scientific grant applications are getting heavier on hype
+28 points
+https://www.statnews.com/2022/08/30/science-grant-nih-hype-application/
+--------------------
+--------------------
+Athletics at the 1904 Summer Olympics: Men's Marathon
+83 points
+https://en.wikipedia.org/wiki/Athletics_at_the_1904_Summer_Olympics_%E2%80%93_men%27s_marathon
+--------------------
+--------------------
+YKK zippers: Why so many designers use them (2012)
+10 points
+https://slate.com/business/2012/04/ykk-zippers-why-so-many-designers-use-them.html
+--------------------
+--------------------
+Fylm: Web's most advanced colour corrector
+28 points
+https://fylm.ai/
+--------------------
+--------------------
+134.5 kg Concrete Bike [video]
+238 points
+https://www.youtube.com/watch?v=Yqgn-qlg1X0
+--------------------
+--------------------
+Launch HN: Payload (YC S22) – Headless CMS for Developers
+177 points
+item?id=32665325
+--------------------
+--------------------
+UBC team developing oral insulin tablet sees breakthrough results
+46 points
+https://news.ubc.ca/2022/08/30/ubc-team-developing-oral-insulin-tablet-sees-breakthrough-results/
+--------------------
+--------------------
+Show HN: Encrypted Git hosting should be easy
+48 points
+https://github.com/nathants/git-remote-aws
+--------------------
+--------------------
+An acoustic study of domestic cat meows in 6 contexts and 4 mental states
+9 points
+https://peerj.com/preprints/27926/
+--------------------
+--------------------
+Fake musicians: a million-dollar Instagram verification scheme
+193 points
+https://www.propublica.org/article/instagram-spotify-verified-fake-musicians
+--------------------
+--------------------
+You may not need a bundler for your NPM library
+36 points
+https://cmdcolin.github.io/posts/2022-05-27-youmaynotneedabundler
+--------------------
+--------------------
+The Sephora case: Do not sell – But are you selling?
+19 points
+https://iapp.org/news/a/the-sephora-case-do-not-sell-but-are-you-selling/
+--------------------
+--------------------
+Is the Internet Killing the Nude Beach?
+29 points
+https://www.theatlantic.com/family/archive/2022/08/nude-beaches-denmark-france-popularity/671275/
+--------------------
+--------------------
+Launch HN: Lion Pose (YC W21) – Safe and effective skin care for people of color
+93 points
+item?id=32664261
+--------------------
+--------------------
+Saying goodbye to my parents’ library
+52 points
+https://www.wsj.com/articles/saying-goodbye-to-my-parents-library-11661572861
+--------------------
+--------------------
+Inter-brain sync occurs without physical copresence during online gaming
+125 points
+https://www.sciencedirect.com/science/article/pii/S0028393222001750
+--------------------
+--------------------
+Final thoughts on Ubiquiti
+500 points
+https://krebsonsecurity.com/2022/08/final-thoughts-on-ubiquiti/
+--------------------
+--------------------
+U.S. life expectancy drops sharply, the second consecutive decline
+126 points
+https://www.statnews.com/2022/08/31/u-s-life-expectancy-drops-sharply-the-second-consecutive-decline/
+--------------------
+--------------------
+Programming Cognitive Robots
+64 points
+https://www.cs.toronto.edu/~hector/pcr.html
+--------------------
+--------------------
+DALL·E: Introducing Outpainting
+401 points
+https://openai.com/blog/dall-e-introducing-outpainting/
+--------------------
