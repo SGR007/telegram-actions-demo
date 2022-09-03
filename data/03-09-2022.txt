@@ -1,0 +1,145 @@
+--------------------
+GitHub backtracks on deprecating the trending tabs page
+34 points
+https://github.com/orgs/community/discussions/31644
+--------------------
+--------------------
+Nokia’s Burning Platform Memo
+50 points
+https://aaplinvestors.net/stats/iphone/nokiamemo/
+--------------------
+--------------------
+Stable Diffusion forming images from text: image snapshots at each step
+58 points
+https://postimg.cc/gallery/SjcKgRt
+--------------------
+--------------------
+Science is political, and that's a bad thing
+60 points
+https://stuartritchie.substack.com/p/science-is-political
+--------------------
+--------------------
+Samsung Recent Security Incident
+187 points
+https://www.samsung.com/us/support/securityresponsecenter/
+--------------------
+--------------------
+Elixir – Phoenix LiveView Native
+134 points
+https://native.live
+--------------------
+--------------------
+USB4 v2 is also 120 Gbps
+114 points
+https://www.angstronomics.com/p/usb4-v2
+--------------------
+--------------------
+We’ll Miss You, MetroCard Machine
+86 points
+https://www.curbed.com/2022/08/goodbye-metrocard-machine-friendly-interface.html
+--------------------
+--------------------
+Q (Number Format)
+37 points
+https://en.wikipedia.org/wiki/Q_(number_format)
+--------------------
+--------------------
+Will young Americans want to work in semiconductor manufacturing? [video]
+173 points
+https://www.youtube.com/watch?v=jlAWx_X5opA
+--------------------
+--------------------
+Dreamachine
+26 points
+https://en.wikipedia.org/wiki/Dreamachine
+--------------------
+--------------------
+Show HN: I'm building an open-source Amazon
+881 points
+https://openship.org/
+--------------------
+--------------------
+UBS, Wealthfront Cancel $1.4B Deal
+42 points
+https://www.thinkadvisor.com/2022/09/02/ubs-wealthfront-cancel-1-4b-deal/
+--------------------
+--------------------
+Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)
+97 points
+https://www.svix.com/careers/
+--------------------
+--------------------
+Doug Engelbart’s design for knowledge-based organizations (1992) [pdf]
+161 points
+https://www.dougengelbart.org/pubs/seminars/sembinder1992nov/T.pdf
+--------------------
+--------------------
+Using a Raspberry Pi as a Bluetooth Speaker with PipeWire
+52 points
+https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/
+--------------------
+--------------------
+Mastodon still can’t replace Twitter
+62 points
+https://www.fastcompanyme.com/technology/sorry-elon-haters-mastodon-still-cant-replace-twitter/
+--------------------
+--------------------
+Japan declares war on floppy disks for government use
+84 points
+https://arstechnica.com/information-technology/2022/08/japan-declares-war-on-floppy-disks-for-government-use/
+--------------------
+--------------------
+The branch banking model
+154 points
+https://bam.kalzumeus.com/archive/branch-banking/
+--------------------
+--------------------
+Tor – Arti 1.0.0 is released: Rust Tor implementation ready for production use
+6 points
+https://blog.torproject.org/arti_100_released/
+--------------------
+--------------------
+A Week of Bug Reporting
+282 points
+https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html
+--------------------
+--------------------
+If You Want This Job, We Must Interview You Forever
+73 points
+https://www.newyorker.com/humor/daily-shouts/if-you-want-this-job-we-must-interview-you-forever
+--------------------
+--------------------
+Why have I never heard of the Ene-Farm? (2017)
+74 points
+https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/
+--------------------
+--------------------
+AI is getting better at generating porn
+4 points
+https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/
+--------------------
+--------------------
+Profile Picture: Stories of diplomatic portraiture
+27 points
+https://www.laphamsquarterly.org/roundtable/profile-picture
+--------------------
+--------------------
+Infrastructure as Software
+381 points
+https://www.justingarrison.com/blog/2022-06-01-infrastructure-as-software/
+--------------------
+--------------------
+Nuclear-Powered Cardiac Pacemakers
+23 points
+https://osrp.lanl.gov/pacemakers.shtml
+--------------------
+--------------------
+Non Fungible Tickets
+99 points
+https://dx.tips/non-fungible-tickets
+--------------------
+--------------------
+Interview: Vitalik Buterin
+106 points
+https://noahpinion.substack.com/p/interview-vitalik-buterin-creator
+--------------------
