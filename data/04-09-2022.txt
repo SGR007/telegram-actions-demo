@@ -1,0 +1,145 @@
+--------------------
+I ran the worlds largest DDoS-for-Hire empire and Cloudflare helped
+47 points
+https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped
+--------------------
+--------------------
+The forty-year programmer
+240 points
+https://codefol.io/posts/the-forty-year-programmer/
+--------------------
+--------------------
+Stable Diffusion PR optimizes VRAM, generate 576x1280 images with 6 GB VRAM
+58 points
+https://github.com/basujindal/stable-diffusion/pull/103
+--------------------
+--------------------
+Less is more agile
+98 points
+https://beny23.github.io/posts/my_take_on_engineering_room_9/
+--------------------
+--------------------
+Solving the Australian Signals Directorate cryptography challenge coin
+53 points
+http://senwerks.com/hacktheplanet/Solving-the-Australian-Signals-Directorate-cryptography-challenge-coin.html
+--------------------
+--------------------
+Dear Oracle, Please Release the JavaScript Trademark
+3 points
+https://tinyclouds.org
+--------------------
+--------------------
+The Sick Society
+22 points
+https://www.nplusonemag.com/online-only/online-only/the-sick-society/
+--------------------
+--------------------
+Tips and Tools for Text Mode Lovers
+17 points
+https://cli-ck.io/
+--------------------
+--------------------
+DBOS: A database-oriented operating system
+112 points
+https://dbos-project.github.io/blog/intro-blog.html
+--------------------
+--------------------
+Roaring bitmaps: what they are and how they work
+176 points
+https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/
+--------------------
+--------------------
+The History of FoxPro: Interview with Wayne Ratliff (1986)
+73 points
+http://www.foxprohistory.org/interview_wayne_ratliff.htm
+--------------------
+--------------------
+The optimal amount of fraud is non-zero
+272 points
+https://bam.kalzumeus.com/archive/optimal-amount-of-fraud/
+--------------------
+--------------------
+A fully open-source and end-to-end encrypted note taking alternative to Evernote
+28 points
+https://github.com/streetwriters/notesnook
+--------------------
+--------------------
+Ivy (YC W23) is hiring software engineers to help unify ML
+143 points
+https://www.ycombinator.com/companies/ivy/jobs
+--------------------
+--------------------
+Lost islands cited in Welsh folklore and poetry are plausible
+20 points
+https://www.sciencedaily.com/releases/2022/08/220825120347.htm
+--------------------
+--------------------
+Things to know about lists on the internet
+40 points
+https://lithub.com/10-things-you-should-know-about-lists-on-the-internet/
+--------------------
+--------------------
+One Serverless Principle to Rule Them All: Idempotency [video]
+31 points
+https://www.youtube.com/watch?v=X24mIe0LrgM
+--------------------
+--------------------
+Space Weather Prediction Center
+82 points
+https://www.spaceweather.gov/homepage
+--------------------
+--------------------
+Samsung Loses a Ton of User Data – Offers Nothing to Victims
+8 points
+https://www.makeuseof.com/samsung-data-breach-should-you-worry/
+--------------------
+--------------------
+Master Foo and the Recruiter
+8 points
+http://www.catb.org/~esr/writings/unix-koans/recruiter.html
+--------------------
+--------------------
+The Last Days of Sigmund Freud
+84 points
+https://newrepublic.com/article/167592/sigmund-freud-austria-nazis-last-days
+--------------------
+--------------------
+Cursorless: Don't let the cursor slow you down
+95 points
+https://github.com/cursorless-dev/cursorless
+--------------------
+--------------------
+DockYard R&D: FireFly Optimizes Your Elixir Compilation
+105 points
+https://dockyard.com/blog/2022/09/01/dockyard-r-d-firefly-optimizes-your-elixir-compilation
+--------------------
+--------------------
+Porsche boss faces software woes keeping VW a step behind Tesla
+93 points
+https://www.bloomberg.com/news/features/2022-09-01/porsche-boss-faces-software-woes-keeping-vw-steps-behind-tesla-tsla
+--------------------
+--------------------
+Show HN: Alumina Programming Language
+79 points
+https://github.com/tibordp/alumina
+--------------------
+--------------------
+Breaking the silence around academic bullying
+93 points
+https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14473
+--------------------
+--------------------
+A hormone may boost cognition in Down syndrome
+44 points
+https://www.scientificamerican.com/article/a-hormone-may-boost-cognition-in-down-syndrome/
+--------------------
+--------------------
+Ask HN: If I enter account or order in a phone tree, why am I asked again?
+33 points
+item?id=32707737
+--------------------
+--------------------
+The carbon capture crux: Lessons learned
+40 points
+https://ieefa.org/resources/carbon-capture-crux-lessons-learned
+--------------------
