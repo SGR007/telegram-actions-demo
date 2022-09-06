@@ -1,0 +1,150 @@
+--------------------
+Keith Davis: He was protecting the oceans – then he disappeared
+65 points
+https://www.bbc.com/news/world-us-canada-62603911
+--------------------
+--------------------
+Killing invasive species is now a competitive sport
+90 points
+https://www.newyorker.com/magazine/2022/09/12/killing-invasive-species-is-now-a-competitive-sport
+--------------------
+--------------------
+Cheating at chess with a computer for my shoes
+301 points
+https://incoherency.co.uk/blog/stories/sockfish.html
+--------------------
+--------------------
+Chitchatter: A P2P chat app that is serverless, decentralized, and ephemeral
+45 points
+https://chitchatter.im/
+--------------------
+--------------------
+Don't Ignore the Janitor
+127 points
+https://happychasing.substack.com/p/see-people
+--------------------
+--------------------
+The Tyranny of the Rocket Equaton (2012)
+20 points
+https://www.nasa.gov/mission_pages/station/expeditions/expedition30/tryanny.html
+--------------------
+--------------------
+Dreamy Blur
+70 points
+https://yuanchuan.dev/dreamy-blur
+--------------------
+--------------------
+Amazon putting a three-day pause on reviews for Rings of Power
+172 points
+https://variety.com/2022/tv/news/rings-of-power-reviews-delayed-amazon-prime-video-1235358724/
+--------------------
+--------------------
+Long-term cardiac pathology in individuals with mild initial Covid-19 illness
+46 points
+https://www.nature.com/articles/s41591-022-02000-0
+--------------------
+--------------------
+Show HN: WakaQ - a Python distributed task queue
+91 points
+https://wakatime.com/blog/56-building-a-distributed-task-queue-in-python
+--------------------
+--------------------
+Userspace FUSE for macOS
+254 points
+https://www.fuse-t.org/
+--------------------
+--------------------
+Useful engineering metrics and why velocity is not one of them
+184 points
+https://lucasfcosta.com/2022/08/31/engineering-metrics.html
+--------------------
+--------------------
+A small Stripe fraud story
+92 points
+https://falkus.co/2022/09/a-stripe-fraud-story
+--------------------
+--------------------
+NIST Digital Library of Mathematical Functions
+61 points
+https://dlmf.nist.gov/
+--------------------
+--------------------
+How to present backend demos
+79 points
+https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59
+--------------------
+--------------------
+Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python
+122 points
+item?id=32723766
+--------------------
+--------------------
+Apple II Desktop Updated
+76 points
+https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/
+--------------------
+--------------------
+Create an Inexpensive Flying Wing / Drone
+113 points
+https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane
+--------------------
+--------------------
+Static site hosting hurdles
+78 points
+https://notes.volution.ro/v1/2022/09/notes/b08118d8/
+--------------------
+--------------------
+Contrasting Intel AMX and Apple AMX
+50 points
+https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx
+--------------------
+--------------------
+What if cryptocurrencies ranked by number of nodes instead of marketcap?
+132 points
+https://chainparrot.com/blockchains-by-number-of-nodes.html
+--------------------
+--------------------
+I patched my Slack client to keep “oops” messages others delete
+135 points
+https://github.com/SharonBrizinov/slack-anti-delete
+--------------------
+--------------------
+Writing an app is like coding for LaserDisc
+142 points
+https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/
+--------------------
+--------------------
+Impact of programming on primary mathematics learning
+36 points
+https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883
+--------------------
+--------------------
+The Sheer Terror of PAM
+93 points
+https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam
+--------------------
+--------------------
+Solr’s Dense Vector Search for indexing and searching dense numerical vectors
+103 points
+https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html
+--------------------
+--------------------
+Mille Bornes
+94 points
+http://www.codex99.com/design/28.html
+--------------------
+--------------------
+With Old Traditions and New Tech, Young Inuit Chart Their Changing Landscape
+8 points
+https://hakaimagazine.com/features/with-old-traditions-and-new-tech-young-inuit-chart-their-changing-landscape/
+--------------------
+--------------------
+Livesite by a Thousand Spikes
+3 points
+https://mahdytech.com/livesite-thousands-spikes/
+--------------------
+--------------------
+Black Hours, Morgan MS 493
+32 points
+https://en.wikipedia.org/wiki/Black_Hours,_Morgan_MS_493
+--------------------
