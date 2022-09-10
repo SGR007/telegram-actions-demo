@@ -1,0 +1,145 @@
+--------------------
+The Next Chapter for Learning on YouTube
+301 points
+https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/
+--------------------
+--------------------
+‘That was our beach’: Notes on Fred Conrad’s Iconic 1977 Photograph
+26 points
+https://thereader.mitpress.mit.edu/nyc-and-fred-conrads-iconic-1977-photograph/
+--------------------
+--------------------
+Elementary OS – Why we write elementary apps in Vala
+20 points
+https://blog.elementary.io/why-we-write-elementary-apps-in-vala/
+--------------------
+--------------------
+Android 13 requires devices to have more than 2GB RAM and 16GB storage
+81 points
+https://android-developers.googleblog.com/2022/09/optimize-for-android-go-lessons-from-google-apps-part-1.html
+--------------------
+--------------------
+Parallel Curves of Cubic Béziers
+149 points
+https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html
+--------------------
+--------------------
+A Web UI for Stable Diffusion
+170 points
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+--------------------
+--------------------
+Byte Magazine: The C Programming Language (1983)
+254 points
+https://archive.org/details/byte-magazine-1983-08
+--------------------
+--------------------
+Two atomic clocks have been quantum entangled for the first time
+106 points
+https://www.newscientist.com/article/2337042-two-atomic-clocks-have-been-quantum-entangled-for-the-first-time/
+--------------------
+--------------------
+Simulated Growing Plants
+82 points
+https://www.youtube.com/watch?v=NogVlXVsJIs
+--------------------
+--------------------
+Stratified Synthesis: Automatically Learning the x86-64 Instruction Set (2016) [pdf]
+9 points
+https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf
+--------------------
+--------------------
+Sonja Trauss, the Woman Stockpiling Cash to Sue SF over Housing Deadlock
+120 points
+https://sfstandard.com/housing-development/woman-stockpiling-cash-to-sue-sf-over-housing/
+--------------------
+--------------------
+A good memory or a bad one? One brain molecule decides
+8 points
+https://www.quantamagazine.org/a-good-memory-or-a-bad-one-one-brain-molecule-decides-20220907/
+--------------------
+--------------------
+Why you might want a domain-specific database like TigerBeetleDB
+52 points
+https://twitter.com/phil_eaton/status/1568247444684554241
+--------------------
+--------------------
+How Transistors Work [video]
+149 points
+https://www.youtube.com/watch?v=CQtSS6g00h0
+--------------------
+--------------------
+Python type hints are Turing complete
+224 points
+https://arxiv.org/abs/2208.14755
+--------------------
+--------------------
+The Lost Art of System Administration
+39 points
+https://matt-rickard.com/the-lost-art-of-systems-administration
+--------------------
+--------------------
+Graydon Hoare: 21 compilers and 3 orders of magnitude in 60 minutes
+156 points
+http://lambda-the-ultimate.org/node/5648
+--------------------
+--------------------
+Evolving my note-taking processes
+93 points
+https://codethrasher.com/post/2022-09-09-evolving-my-note-taking-processes/
+--------------------
+--------------------
+Gzip and Brotli Compression Level Estimator
+24 points
+https://tools.paulcalvano.com/compression.php
+--------------------
+--------------------
+Some things I realized about AI while contemplating slide rule prices on eBay
+108 points
+http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html
+--------------------
+--------------------
+Scientists found genetic mutations in every astronaut blood sample they studied
+172 points
+https://futurism.com/neoscope/scientists-genetic-mutations-every-astronaut-blood-sample
+--------------------
+--------------------
+Olark (YC W09) Is Hiring an Account Executive who cares about accessibility
+28 points
+https://olark.hire.trakstar.com/jobs/fk02daq?source=hn
+--------------------
+--------------------
+Regarding the eSIM-only iPhone 14 models in the U.S.
+56 points
+https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us/
+--------------------
+--------------------
+Lensless camera creates 3D images from single exposure
+26 points
+https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/
+--------------------
+--------------------
+The Middle of the Square
+397 points
+http://bit-player.org/2022/the-middle-of-the-square
+--------------------
+--------------------
+Meta cuts Responsible Innovation Team
+796 points
+https://www.wsj.com/articles/facebook-parent-meta-platforms-cuts-responsible-innovation-team-11662658423?mod=djemalertNEWS
+--------------------
+--------------------
+What's SAP, and why's it worth $163B? (2020)
+58 points
+https://retool.com/blog/erp-for-engineers/
+--------------------
+--------------------
+How a new hard hat technology can protect workers better from concussion
+35 points
+https://text.npr.org/1121903266
+--------------------
+--------------------
+Ask HN: How to deal with a co-founder who has wasteful spending habits
+206 points
+item?id=32786367
+--------------------
