@@ -1,0 +1,145 @@
+--------------------
+Brickit scans your pile of bricks and gives you ideas, with instructions
+83 points
+https://brickit.app/
+--------------------
+--------------------
+Rethinking GPS: Engineering Next-Gen Location at Uber
+138 points
+https://www.uber.com/en-SE/blog/rethinking-gps/
+--------------------
+--------------------
+Most books don't sell only a dozen copies
+149 points
+https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen
+--------------------
+--------------------
+How does the land use of different electricity sources compare?
+26 points
+https://ourworldindata.org/land-use-per-energy-source
+--------------------
+--------------------
+Why Empty Offices Are Becoming Apartments in Texas’s Big Cities
+52 points
+https://www.texasmonthly.com/news-politics/downtown-offices-apartments-conversions/
+--------------------
+--------------------
+High difficulty computer vision cluster munition detection
+83 points
+https://twitter.com/adamhrv/status/1568167824962486272
+--------------------
+--------------------
+Unintended Consequences of Photography
+67 points
+https://www.saturdayeveningpost.com/2022/08/5-unintended-consequences-of-photography/
+--------------------
+--------------------
+The case for building something wonderful alone
+13 points
+https://derw.substack.com/p/the-case-for-building-something-wonderful
+--------------------
+--------------------
+Living Like Nothing Matters
+84 points
+https://awealthofcommonsense.com/2022/09/living-like-nothing-matters/
+--------------------
+--------------------
+'We don’t have enough' lithium globally to meet EV targets, mining CEO says
+26 points
+https://finance.yahoo.com/news/lithium-supply-ev-targets-miner-181513161.html
+--------------------
+--------------------
+NeuralPi: Raspberry Pi guitar pedal using neural networks
+21 points
+https://github.com/GuitarML/NeuralPi
+--------------------
+--------------------
+IPv4 Turf War
+93 points
+http://ipv4.games/
+--------------------
+--------------------
+Modulating Brain Function with Microbiota
+13 points
+https://www.science.org/doi/10.1126/science.abo4220
+--------------------
+--------------------
+Visual effects for the Indian blockbuster “RRR”
+651 points
+https://www.blender.org/user-stories/visual-effects-for-the-indian-blockbuster-rrr/
+--------------------
+--------------------
+Ask HN: Solopreneurs, how do you maintain a professional/social network?
+74 points
+item?id=32795970
+--------------------
+--------------------
+The map is not the territory (2015)
+97 points
+https://fs.blog/map-and-territory/
+--------------------
+--------------------
+Jackson MS water crisis resolved within 24 hours of Corps of Engr on site
+123 points
+https://www.wjtv.com/news/jacksons-water-crisis/jacksons-water-crisis-the-latest-updates/
+--------------------
+--------------------
+YouTube-dl has an interpreter for a subset of JavaScript in 870 lines of Python
+384 points
+https://twitter.com/zhuowei/status/1568659229887664129
+--------------------
+--------------------
+How to Bury Carbon? Let Plants Do the Dirty Work
+41 points
+https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/
+--------------------
+--------------------
+Mathematics Genealogy Project
+19 points
+https://www.genealogy.math.ndsu.nodak.edu/
+--------------------
+--------------------
+Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring
+194 points
+https://skio.com/careers/
+--------------------
+--------------------
+Ask HN: What's the best source code you've read?
+173 points
+item?id=32793534
+--------------------
+--------------------
+What went down on Wikipedia after Queen Elizabeth II's death was announced
+4 points
+https://twitter.com/depthsofwiki/status/1568101529273643008
+--------------------
+--------------------
+Cannon Smash (2003)
+51 points
+http://cannonsmash.sourceforge.net/
+--------------------
+--------------------
+Boxes.py – Create boxes and more with a laser cutter
+361 points
+https://festi.info/boxes.py/
+--------------------
+--------------------
+Tipi – A personal homeserver for everyone
+181 points
+https://github.com/meienberger/runtipi
+--------------------
+--------------------
+Zoho became a $1B company without external investment
+75 points
+https://techcrunch.com/2022/09/10/how-zoho-became-1b-company-without-a-dime-of-external-investment/
+--------------------
+--------------------
+Fabrice Bellard: Portrait of a Super-Productive Programmer (2011)
+68 points
+https://smartbear.com/blog/fabrice-bellard-portrait-of-a-super-productive-pro/
+--------------------
+--------------------
+The Death of Personality (2017)
+63 points
+https://tdarb.org/blog/death-of-personality.html
+--------------------
