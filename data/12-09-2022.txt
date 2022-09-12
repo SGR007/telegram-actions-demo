@@ -1,0 +1,150 @@
+--------------------
+Diffusion Bee: Stable Diffusion GUI App for M1 Mac
+345 points
+https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+--------------------
+--------------------
+MVP.css – Minimalist stylesheet for HTML elements
+46 points
+https://andybrewer.github.io/mvp/
+--------------------
+--------------------
+.ai
+313 points
+http://www.ai?
+--------------------
+--------------------
+A look inside Feynman’s calculus notebook
+12 points
+https://physicstoday.scitation.org/do/10.1063/PT.5.9099/full/
+--------------------
+--------------------
+Shortest URLs on the Internet
+328 points
+https://jameswillia.ms/posts/shortest-urls.html
+--------------------
+--------------------
+Choosing happiness
+76 points
+https://humbledollar.com/2022/09/choosing-happiness/
+--------------------
+--------------------
+http://pn./
+96 points
+http://pn./
+--------------------
+--------------------
+Ask HN: Why hasn't the Deep Learning community embraced Julia yet?
+14 points
+item?id=32806179
+--------------------
+--------------------
+Speedup from switch to +=
+89 points
+https://github.com/lstein/stable-diffusion/commit/62863ac586194a43ff952eba17a83cecf9956500
+--------------------
+--------------------
+Common Lisp names all sixteen binary logic gates
+97 points
+https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000
+--------------------
+--------------------
+The dumbest way to solve a maze [video]
+25 points
+https://www.youtube.com/watch?v=BvwgdrC8vlE
+--------------------
+--------------------
+Atkinson Hyperlegible Font
+650 points
+https://brailleinstitute.org/freefont
+--------------------
+--------------------
+Heavier cars are safer for their drivers, but far deadlier for everyone else
+253 points
+https://academic.oup.com/restud/article-abstract/81/2/535/1517632
+--------------------
+--------------------
+What you need to build a Greek temple
+52 points
+https://antigonejournal.com/2022/09/how-build-greek-temple/
+--------------------
+--------------------
+Ask HN: Those making $500/month on side projects in 2022 – Show and tell
+12 points
+item?id=32806068
+--------------------
+--------------------
+Perfecting WebGPU/Dawn native graphics for Zig
+74 points
+https://devlog.hexops.com/2022/perfecting-webgpu-native/
+--------------------
+--------------------
+Discussion: structured, leveled logging
+178 points
+https://github.com/golang/go/discussions/54763
+--------------------
+--------------------
+I learned to love testing game code
+69 points
+https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/
+--------------------
+--------------------
+The Twisted Life of Clippy
+89 points
+https://www.seattlemet.com/news-and-city-life/2022/08/origin-story-of-clippy-the-microsoft-office-assistant
+--------------------
+--------------------
+My slightly mad quest for the perfect spoon
+8 points
+https://www.ft.com/content/22379db2-13da-4f76-8035-d2074bdacd61
+--------------------
+--------------------
+DIY Dial Caliper Repair Guide (Mitutoyo, Starrett, Browne & Sharpe)
+39 points
+http://www.longislandindicator.com/p44.html
+--------------------
+--------------------
+What exascale computing could mean for chemistry
+23 points
+https://cen.acs.org/physical-chemistry/computational-chemistry/exascale-computing-mean-chemistry/100/i31
+--------------------
+--------------------
+Ask HN: How do you find the weird parts of the web?
+37 points
+item?id=32804832
+--------------------
+--------------------
+Show HN: Compass and Ruler construction problems as puzzle game
+107 points
+https://sdkgames.itch.io/ecocoru
+--------------------
+--------------------
+A Review of the Odin Programming Language
+124 points
+https://graphitemaster.github.io/odin_review/
+--------------------
+--------------------
+John C. Mather: “There is no first moment of time” (2017)
+46 points
+https://www.edge.org/response-detail/27054
+--------------------
+--------------------
+Connectix QuickCam: The First Webcam
+53 points
+https://computeradsfromthepast.substack.com/p/connectix-quickcam
+--------------------
+--------------------
+Build your career on dirty work
+237 points
+https://staysaasy.com/career/2022/09/11/Dirty-Work.html
+--------------------
+--------------------
+The potential of mobile housing
+67 points
+https://www.sightline.org/2022/09/09/were-wildly-underestimating-the-potential-of-mobile-housing/
+--------------------
+--------------------
+Open source, cross-platform, low latency, user-mode tablet driver
+66 points
+https://github.com/OpenTabletDriver/OpenTabletDriver
+--------------------
