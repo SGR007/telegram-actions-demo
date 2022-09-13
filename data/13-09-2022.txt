@@ -1,0 +1,145 @@
+--------------------
+Dark Sky iOS app ends December 31, 2022
+269 points
+https://blog.darksky.net/
+--------------------
+--------------------
+Li-Ion Battery Warehouse Fire Put Out with Portland Cement (2021)
+104 points
+https://abc7chicago.com/morris-fire-update-evacuation/10849672/
+--------------------
+--------------------
+A personal list of Rust grievances
+69 points
+https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7
+--------------------
+--------------------
+SEC Charges VMware with Misleading Investors by Obscuring Financial Performance
+130 points
+https://www.sec.gov/news/press-release/2022-160
+--------------------
+--------------------
+Planning Go 1.20 Cryptography Work
+95 points
+https://words.filippo.io/dispatches/go1-20/
+--------------------
+--------------------
+Fixing a 30 year-old Roland synthesizer Bug
+131 points
+https://www.vogons.org/viewtopic.php?t=86257
+--------------------
+--------------------
+Mtime comparison considered harmful (2018)
+22 points
+https://apenwarr.ca/log/20181113
+--------------------
+--------------------
+Adobe Photoshop: Counterfeit deterrence system
+90 points
+https://helpx.adobe.com/photoshop/cds.html
+--------------------
+--------------------
+Twine is an open-source tool for telling interactive, nonlinear stories
+266 points
+https://twinery.org/
+--------------------
+--------------------
+Work Is Work
+141 points
+https://codahale.com//work-is-work/
+--------------------
+--------------------
+AI Content Generation, Part 1: Machine Learning Basics
+55 points
+https://www.jonstokes.com/p/ai-content-generation-part-1-machine
+--------------------
+--------------------
+Coffee with Brian Kernighan [video]
+178 points
+https://www.youtube.com/watch?v=GNyQxXw_oMQ
+--------------------
+--------------------
+Prompt injection attacks against GPT-3
+68 points
+https://simonwillison.net/2022/Sep/12/prompt-injection/
+--------------------
+--------------------
+8bitworkshop
+111 points
+https://8bitworkshop.com/
+--------------------
+--------------------
+The mysterious balancing stones on frozen lakes
+10 points
+https://physicstoday.scitation.org/doi/10.1063/PT.3.5088
+--------------------
+--------------------
+The strange behavior of sound through solids
+21 points
+https://www.ias.edu/news/2022/sound-through-solids
+--------------------
+--------------------
+Prenatal cannabis exposure associated with mental disorders in children
+289 points
+https://www.nih.gov/news-events/news-releases/prenatal-cannabis-exposure-associated-mental-disorders-children-persist-into-early-adolescence
+--------------------
+--------------------
+Ladybird: A new cross-platform browser project
+1101 points
+https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
+--------------------
+--------------------
+What is an LSM Tree (2021)
+43 points
+https://creativcoder.dev/what-is-lsm-tree/
+--------------------
+--------------------
+The Protobuf Language Specification
+160 points
+https://buf.build/blog/protobuf-language-specification
+--------------------
+--------------------
+A development process startup founders should use to ship features weirdly fast
+92 points
+https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast
+--------------------
+--------------------
+The Inflated Promise of Science Education
+26 points
+https://bostonreview.net/articles/the-inflated-promise-of-science-education/
+--------------------
+--------------------
+Release (YC W20) Is Hiring Business Development Reps
+4 points
+https://www.ycombinator.com/companies/release/jobs/4UBvS1Y-sales-development-representative
+--------------------
+--------------------
+Try to Get Confused
+15 points
+https://shimmeringvoid.substack.com/p/try-to-get-confused
+--------------------
+--------------------
+Mitigating Orbital Debris by Shortening Time for Satellite Disposal
+123 points
+https://www.fcc.gov/document/mitigating-orbital-debris-shortening-time-satellite-disposal
+--------------------
+--------------------
+Transformers seem to mimic parts of the brain
+271 points
+https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/
+--------------------
+--------------------
+Online art communities begin banning AI-generated images
+96 points
+https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/
+--------------------
+--------------------
+An Overview of TUNIS: A UNIX Look-Alike Written in Concurrent Euclid (1982)
+97 points
+https://archive.org/details/technicalreportc140univ
+--------------------
+--------------------
+Intel’s Meteor Lake Chiplets, Compared to AMD’s
+30 points
+https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/
+--------------------
