@@ -1,0 +1,145 @@
+--------------------
+Why car wheels are so flat these days
+31 points
+https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/
+--------------------
+--------------------
+“Secrets” about the consumer audio business you may find interesting
+269 points
+https://www.audiosciencereview.com/forum/index.php?threads%2Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%2F
+--------------------
+--------------------
+Death by Hockey Sticks
+76 points
+https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/
+--------------------
+--------------------
+Increase: Banking API
+418 points
+https://increase.com/
+--------------------
+--------------------
+W3.css – A minimal alternative to Bootstrap
+91 points
+https://www.w3schools.com/w3css/default.asp
+--------------------
+--------------------
+Oscar Niemeyer’s French communist party headquarters
+34 points
+https://interiordesign.net/projects/oscar-niemeyer-s-french-communist-party-headquarters-brings-a-sensual-brazilian-lilt-to-paris/
+--------------------
+--------------------
+Finley (YC W21) is hiring across all teams to build fintech infrastructure
+290 points
+https://www.finleycms.com/careers/
+--------------------
+--------------------
+Gödel, Escher, Bach: an in-depth explainer
+80 points
+https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer
+--------------------
+--------------------
+Signing Git commits with your SSH key
+70 points
+https://calebhearth.com/sign-git-with-ssh
+--------------------
+--------------------
+Sudden disturbing moves for IT in large companies, mandated by CEOs
+170 points
+https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/
+--------------------
+--------------------
+When to use Bazel?
+161 points
+https://earthly.dev/blog/bazel-build/
+--------------------
+--------------------
+Show HN: Mini Metroidvania in 13KB of JavaScript
+190 points
+https://arineonshark.itch.io/infernal-throne
+--------------------
+--------------------
+The search for dirt on Mudge
+52 points
+https://www.newyorker.com/news/news-desk/the-search-for-dirt-on-the-twitter-whistle-blower
+--------------------
+--------------------
+Is Peer Review a Good Idea? (2020)
+99 points
+https://www.journals.uchicago.edu/doi/10.1093/bjps/axz029
+--------------------
+--------------------
+Framework Ethernet Expansion Card is now available
+675 points
+https://frame.work/de/en/products/ethernet-expansion-card
+--------------------
+--------------------
+Factorio is coming to Nintendo Switch
+32 points
+https://www.factorio.com/blog/post/factorio-on-nintendo-switch
+--------------------
+--------------------
+Mudge is a cyber activist, not a business executive
+97 points
+https://cybersect.substack.com/p/re-mudge-v-twitter
+--------------------
+--------------------
+Ask HN: What are examples of companies dying due to many people quitting?
+117 points
+item?id=32831701
+--------------------
+--------------------
+Show HN: Query SQLite files stored in S3
+395 points
+https://github.com/litements/s3sqlite
+--------------------
+--------------------
+W4 Games raises $8.5M to support Godot Engine growth
+23 points
+https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/
+--------------------
+--------------------
+The transistor – or 25 miles on a hunk of Germanium (1953)
+95 points
+https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1953/03/page13/index.html
+--------------------
+--------------------
+Byte Magazine: Declarative Languages (1985)
+14 points
+https://archive.org/details/byte-magazine-1985-08
+--------------------
+--------------------
+Kevins Got a Bad Rap in France
+88 points
+https://www.newyorker.com/culture/culture-desk/how-kevins-got-a-bad-rap-in-france
+--------------------
+--------------------
+Scaling Git’s garbage collection
+4 points
+https://github.blog/2022-09-13-scaling-gits-garbage-collection/
+--------------------
+--------------------
+Vendor by Default (2021)
+51 points
+https://macwright.com/2021/03/11/vendor-by-default.html
+--------------------
+--------------------
+Explaining modern server monitoring stacks for self-hosting
+57 points
+https://dataswamp.org/~solene/2022-09-11-exploring-monitoring-stacks.html
+--------------------
+--------------------
+The Nevada national security site pt 1
+601 points
+https://computer.rip/2022-09-11-the-nevada-national-security-site-pt-1.html
+--------------------
+--------------------
+The last person standing in the floppy disk business
+108 points
+https://eyeondesign.aiga.org/we-spoke-with-the-last-person-standing-in-the-floppy-disk-business/
+--------------------
+--------------------
+Futurist Prediction Accuracy
+62 points
+https://danluu.com/futurist-predictions/
+--------------------
