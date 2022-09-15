@@ -1,0 +1,150 @@
+--------------------
+Crazy Thin ‘Deep Insert’ ATM Skimmers
+393 points
+https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/
+--------------------
+--------------------
+Suspected counterfeit components found in ejection seat after fatal F-16 crash
+273 points
+https://www.airforcetimes.com/news/your-air-force/2022/09/13/an-f-16-pilot-died-when-his-ejection-seat-failed-was-it-counterfeit/
+--------------------
+--------------------
+Checkout trader's joe logo on Google
+49 points
+https://www.google.com/search?q=trader+joe
+--------------------
+--------------------
+I figured out how to get GitHub Copilot to run in the terminal
+26 points
+https://github.com/maxwell-bland/copilot-in-the-terminal
+--------------------
+--------------------
+How to help crying infants sleep. Study suggests a two-part path: “walk-to-sit” [pdf]
+108 points
+https://www.cell.com/current-biology/pdf/S0960-9822(22)01363-X.pdf
+--------------------
+--------------------
+About Lockdown Mode
+273 points
+https://support.apple.com/en-us/HT212650
+--------------------
+--------------------
+Merge Soon
+9 points
+https://ultrasound.money
+--------------------
+--------------------
+Head-On Crash: 2009 Chevrolet Malibu vs. 1959 Bel Air (2009)
+106 points
+https://www.thecarconnection.com/news/1035359_head-on-crash-2009-chevrolet-malibu-vs-59-bel-air
+--------------------
+--------------------
+Long Covid is now the third leading neurological disorder in the US
+112 points
+https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/
+--------------------
+--------------------
+Act-1: Transformer for Actions
+181 points
+https://www.adept.ai/act
+--------------------
+--------------------
+Search 5.8B images used to train popular AI art models
+138 points
+https://haveibeentrained.com/
+--------------------
+--------------------
+The Wizards of Mind Control
+29 points
+https://nautil.us/the-wizards-of-mind-control-238543/
+--------------------
+--------------------
+Apple.com Is Down
+73 points
+https://www.apple.com/
+--------------------
+--------------------
+Dolphin Progress July and August 2022
+76 points
+https://dolphin-emu.org/blog/2022/09/13/dolphin-progress-report-july-and-august-2022/
+--------------------
+--------------------
+Dick the Birthday Boy: The Legacy Continues [video]
+91 points
+https://www.youtube.com/watch?v=hwu1427MUIE
+--------------------
+--------------------
+H-m-m: Hackers mind map
+292 points
+https://github.com/nadrad/h-m-m
+--------------------
+--------------------
+Pay Attention to Deviations from Mainstream Incentives
+5 points
+https://commoncog.com/pay-attention-to-deviations-from-mainstream-incentives/
+--------------------
+--------------------
+How a QR code works
+306 points
+https://typefully.com/DanHollick/qr-codes-T7tLlNi
+--------------------
+--------------------
+iPhone 14 Pro Camera Review: Scotland
+161 points
+https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland
+--------------------
+--------------------
+Show HN: Cachegrand – a fast OSS Key-Value store built for modern hardware
+96 points
+https://github.com/danielealbano/cachegrand
+--------------------
+--------------------
+Worldwide Rail Network Map
+152 points
+https://www.openrailwaymap.org/?style=standard&lat=51.58248&lon=15.6501&zoom=3
+--------------------
+--------------------
+Patagonia founder gives away the company
+576 points
+https://www.nytimes.com/2022/09/14/climate/patagonia-climate-philanthropy-chouinard.html
+--------------------
+--------------------
+Show HN: StackAid – Fund all your open-source dependencies
+204 points
+https://www.stackaid.us
+--------------------
+--------------------
+GraphBLAS
+51 points
+https://people.engr.tamu.edu/davis/GraphBLAS.html
+--------------------
+--------------------
+The Little Prover
+100 points
+https://the-little-prover.github.io/
+--------------------
+--------------------
+SB116 Programmers Calculator
+29 points
+https://unimplementedtrap.com/sb116-programmers-calculator
+--------------------
+--------------------
+Escaping strings faster with AVX-512
+78 points
+https://lemire.me/blog/2022/09/14/escaping-strings-faster-with-avx-512/
+--------------------
+--------------------
+My First BillG Review (2006)
+202 points
+https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/
+--------------------
+--------------------
+Ask HN: How to reset your online bubble of 'interests'?
+13 points
+item?id=32821750
+--------------------
+--------------------
+Why Racket? Why Lisp? (2014)
+171 points
+https://beautifulracket.com/appendix/why-racket-why-lisp.html
+--------------------
