@@ -1,0 +1,145 @@
+--------------------
+Plasma Bigscreen
+243 points
+https://plasma-bigscreen.org/
+--------------------
+--------------------
+Art Garfunkel's Library
+36 points
+https://www.artgarfunkel.com/library.html
+--------------------
+--------------------
+Confirmed the MOS 7600/7601 Pong chip is a true microcontroller
+59 points
+http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html
+--------------------
+--------------------
+The collapse of cryptokitties, the first big blockchain game
+293 points
+https://spectrum.ieee.org/cryptokitties
+--------------------
+--------------------
+Senators Introduce Bill to Thin Out the 900k Pieces of Orbiting Junk
+191 points
+https://www.commerce.senate.gov/2022/9/cantwell-hickenlooper-lummis-wicker-introduce-bill-to-thin-out-the-900-000-pieces-of-orbiting-junk-that-endanger-the-future-of-space-exploration
+--------------------
+--------------------
+Adobe to acquire Figma for $20B
+2085 points
+https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma
+--------------------
+--------------------
+Medieval skeleton puts a face on accounts of torture and violence (2019)
+25 points
+https://arstechnica.com/science/2019/10/archaeologists-unearth-the-remains-of-a-medieval-torture-victim/
+--------------------
+--------------------
+Uber Investigating Breach of Its Computer Systems
+192 points
+https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html
+--------------------
+--------------------
+The number input is the worst input
+258 points
+https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/
+--------------------
+--------------------
+Why Data Breaches Don’t Hurt Stock Prices (2015)
+22 points
+https://hbr.org/2015/03/why-data-breaches-dont-hurt-stock-prices
+--------------------
+--------------------
+Hacking the PS4 / PS5 Through the PS2 Emulator
+150 points
+https://cturt.github.io/mast1c0re.html
+--------------------
+--------------------
+Scientists are using AI to dream up revolutionary new proteins
+48 points
+https://www.nature.com/articles/d41586-022-02947-7
+--------------------
+--------------------
+Death of a Project (1965)
+11 points
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf
+--------------------
+--------------------
+Interactive Docs with Markdoc
+104 points
+https://stripe.com/blog/markdoc
+--------------------
+--------------------
+Building the Future of the Command Line
+47 points
+https://github.com/readme/featured/future-of-the-command-line
+--------------------
+--------------------
+I Had a Dream
+21 points
+https://scottaaronson.blog/?p=6718
+--------------------
+--------------------
+The dirty secret of mathematics: We make it up as we go along (2018)
+63 points
+https://medium.com/q-e-d/the-dirty-secret-of-mathematics-we-make-it-up-as-we-go-along-e79b7a696174
+--------------------
+--------------------
+McDonald's CEO sounds the alarm over crime in Chicago
+64 points
+https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html
+--------------------
+--------------------
+Three Different Types of Twilight
+26 points
+https://www.timeanddate.com/astronomy/different-types-twilight.html
+--------------------
+--------------------
+The Ethereum merge is done
+1250 points
+https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/
+--------------------
+--------------------
+Radv: Reduce CPU overhead of draw command recording Code
+8 points
+https://www.supergoodcode.com/spaghetti-recipes/
+--------------------
+--------------------
+Food delivery robot rolls through LA crime scene as confused cops look on
+18 points
+https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/
+--------------------
+--------------------
+TaxProper (YC S19) Is Hiring Engineers and Operations
+30 points
+item?id=32858405
+--------------------
+--------------------
+Team led by Japanese researchers reveals best way to put crying baby to sleep
+163 points
+https://mainichi.jp/english/articles/20220914/p2a/00m/0li/015000c
+--------------------
+--------------------
+Show HN: WunderBase – Serverless OSS database on top of SQLite, Firecracker
+282 points
+https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma
+--------------------
+--------------------
+Godot 4 Beta 1
+129 points
+https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1
+--------------------
+--------------------
+Chaos researchers can now predict perilous points of no return
+113 points
+https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/
+--------------------
+--------------------
+Apache Apisix: Open-Source API Gateway and API Management Platform
+27 points
+https://apisix.apache.org/blog/
+--------------------
+--------------------
+Patagonia Billionaire Who Gave Up Company Skirts $700M Tax Hit
+142 points
+https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit
+--------------------
