@@ -1,0 +1,145 @@
+--------------------
+EVGA terminates Nvidia partnership [video]
+555 points
+https://www.youtube.com/watch?v=cV9QES-FUAM
+--------------------
+--------------------
+Blocking Web Fonts for Speed and Privacy
+68 points
+https://collinmbarrett.com/block-web-fonts/
+--------------------
+--------------------
+Why Craigslist still looks the same after 25 years
+360 points
+https://www.pcmag.com/news/heres-why-craigslist-still-looks-the-same-after-25-plus-years
+--------------------
+--------------------
+What it takes to make a game by yourself
+170 points
+https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/
+--------------------
+--------------------
+Synthetic embryo with brain and beating heart created by Cambridge scientists
+61 points
+https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/
+--------------------
+--------------------
+Surrealdb – FOSS document-graph database, for the realtime web in Rust
+9 points
+https://github.com/surrealdb/surrealdb
+--------------------
+--------------------
+Game Programming Patterns
+43 points
+https://gameprogrammingpatterns.com/
+--------------------
+--------------------
+Galileo Project now fully funded for expedition to study an interstellar meteor
+30 points
+https://avi-loeb.medium.com/message-in-an-interstellar-bottle-c393ea526e9f
+--------------------
+--------------------
+Joy of Elixir (2020)
+34 points
+https://joyofelixir.com/toc.html
+--------------------
+--------------------
+Best command-line-only video games (2019)
+118 points
+https://www.linuxjournal.com/content/best-command-line-only-video-games
+--------------------
+--------------------
+Ace Attorney's forgotten game shows strange place of fan localisations
+33 points
+https://www.eurogamer.net/ace-attorneys-forgotten-game-shows-the-strange-place-of-fan-localisations-within-fandom
+--------------------
+--------------------
+“The Suck” (Learning Anything by Writing It Out by Hand)
+29 points
+https://scottscheper.com/letter/40/
+--------------------
+--------------------
+NaN Boxing (2020)
+94 points
+https://piotrduperas.com/posts/nan-boxing/
+--------------------
+--------------------
+TinyBase v2.0: reactive data store for local-first apps
+89 points
+https://tinybase.org/guides/releases/#v2-0
+--------------------
+--------------------
+Flashbots
+136 points
+https://blog.bitmex.com/flashbots/
+--------------------
+--------------------
+Using WebTransport
+141 points
+https://web.dev/webtransport/
+--------------------
+--------------------
+Apple to Move a Part of Its Embedded Cores to RISC-V
+58 points
+https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa
+--------------------
+--------------------
+GPU mining no longer profitable after Ethereum merge
+389 points
+https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable
+--------------------
+--------------------
+Researchers piece together the story of a Roman city, one artifact at a time
+7 points
+https://phys.org/news/2022-09-piece-story-ancient-roman-city.html
+--------------------
+--------------------
+Retrobot: A Discord bot that plays emulated games with friends over chat
+25 points
+https://github.com/rossimo/retrobot
+--------------------
+--------------------
+CoreML Benchmark for the iPhone 14 Pro
+49 points
+https://www.photoroom.com/tech/core-ml-performance-2022/
+--------------------
+--------------------
+Egg Boxing
+66 points
+https://peterattiamd.com/egg-boxing/
+--------------------
+--------------------
+Show HN: Reflio – Open-source affiliate program creator for SaaS
+118 points
+https://reflio.com
+--------------------
+--------------------
+Datastream for BigQuery Preview
+98 points
+https://cloud.google.com/datastream-for-bigquery
+--------------------
+--------------------
+Retrospection and Learnings from Dgraph Labs
+93 points
+https://manishrjain.com/dgraph-labs-learnings
+--------------------
+--------------------
+Bankman-Fried survived the slump and still expanded
+13 points
+https://www.cnbc.com/2022/09/16/how-billionaire-bankman-fried-survived-the-slump-and-still-expanded.html
+--------------------
+--------------------
+World’s longest journey by pumpkin boat
+100 points
+https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/
+--------------------
+--------------------
+Siting Bank Branches
+67 points
+https://bam.kalzumeus.com/archive/why-is-that-bank-branch-there/
+--------------------
+--------------------
+Spring Reverb Tanks Explained and Compared
+22 points
+https://www.amplifiedparts.com/tech-articles/spring-reverb-tanks-explained-and-compared
+--------------------
