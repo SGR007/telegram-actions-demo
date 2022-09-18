@@ -1,0 +1,145 @@
+--------------------
+Ask HN: How to validate a startup idea whilst employed?
+55 points
+item?id=32875224
+--------------------
+--------------------
+Everyone you meet is living a story that you know nothing about
+165 points
+https://joylere.substack.com/p/unabridged
+--------------------
+--------------------
+Cppfront, Herb Sutter's proposal for a new C++ syntax
+445 points
+https://github.com/hsutter/cppfront
+--------------------
+--------------------
+Phorge: Going Public
+179 points
+https://we.phorge.it/phame/post/view/1/going_public/
+--------------------
+--------------------
+The family that built a ballpark nachos monopoly
+23 points
+https://thehustle.co/the-family-that-built-a-ballpark-nachos-monopoly/
+--------------------
+--------------------
+U.S. appeals court rejects big tech's right to regulate online speech
+421 points
+https://www.reuters.com/legal/us-appeals-court-rules-against-big-techs-ability-regulate-online-speech-2022-09-16/
+--------------------
+--------------------
+Why do all these 20-somethings have closed captions turned on?
+176 points
+https://www.wsj.com/articles/why-do-all-these-20-somethings-have-closed-captions-turned-on-11663386473
+--------------------
+--------------------
+Show HN: LambdaLisp – A Lisp interpreter that runs on lambda calculus
+118 points
+https://woodrush.github.io/blog/lambdalisp.html
+--------------------
+--------------------
+Ask HN: Inherited the worst code and tech team I have ever seen. How to fix it?
+52 points
+item?id=32883596
+--------------------
+--------------------
+Faster, Meaner, Deadlier: The Evolution of “BattleBots”
+10 points
+https://spectrum.ieee.org/battlebots-tech-evolution
+--------------------
+--------------------
+My Dad and Kurt Cobain
+69 points
+https://www.newyorker.com/magazine/2022/08/22/my-dad-and-kurt-cobain
+--------------------
+--------------------
+Show HN: A virtual Yubikey device for 2FA/WebAuthN
+71 points
+https://github.com/bulwarkid/virtual-fido
+--------------------
+--------------------
+How to Make a Sundial
+34 points
+https://www.sundialzone.com/en/sundial
+--------------------
+--------------------
+Ivy (YC W23) is hiring developers to help unify ML
+154 points
+https://www.ycombinator.com/companies/ivy/jobs
+--------------------
+--------------------
+Self-hostable maps stack, powered by OpenStreetMap
+225 points
+https://github.com/headwaymaps/headway
+--------------------
+--------------------
+Super apps are proliferating across emerging markets
+93 points
+https://afridigest.com/super-apps-in-emerging-markets/
+--------------------
+--------------------
+Automatic Differentiation in 38 lines of Haskell
+106 points
+https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21
+--------------------
+--------------------
+p0f: TCP Packet Fingerprinting
+74 points
+https://lcamtuf.coredump.cx/p0f3/
+--------------------
+--------------------
+Triple-dip La Niña confirmed as BoM makes declaration
+86 points
+https://www.scimex.org/newsfeed/expert-reaction-triple-dip-la-nina-confirmed-as-bom-makes-declaration
+--------------------
+--------------------
+S6: A standalone JIT compiler library for CPython
+125 points
+https://github.com/deepmind/s6
+--------------------
+--------------------
+How to disagree with someone more powerful than you (2016)
+13 points
+https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you
+--------------------
+--------------------
+Wegmans ends self-checkout app after too much shoplifting
+62 points
+https://www.cnn.com/2022/09/16/business-food/wegmans-scan-and-go-app-shoplifting/index.html
+--------------------
+--------------------
+The Magic of Rituals
+29 points
+https://nautil.us/the-real-magic-of-rituals-238960/
+--------------------
+--------------------
+The Allied “Passierschein” Safe Conduct Passes of WWII
+189 points
+https://www.psywarrior.com/GermanSCP.html
+--------------------
+--------------------
+How to run an event that doesn't suck
+56 points
+https://karmanivero.us/blog/how-to-run-an-event-that-doesnt-suck/
+--------------------
+--------------------
+$ rm Important.txt (uh oh)
+37 points
+https://xenodium.com/rm-important-txt-oh-sht/
+--------------------
+--------------------
+Saving the Ancient Glass Artifacts Shattered in the Beirut Explosion
+160 points
+https://www.atlasobscura.com/articles/beirut-explosion-glass-artifact-restoration
+--------------------
+--------------------
+GitUI: Terminal UI for Git
+13 points
+https://github.com/extrawurst/gitui
+--------------------
+--------------------
+Wildlife Photographer of the Year (2021)
+140 points
+https://www.nhm.ac.uk/wpy/gallery?tags=ed.current
+--------------------
