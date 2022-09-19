@@ -1,0 +1,145 @@
+--------------------
+macOS 10.15: Slow by Design
+23 points
+https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/
+--------------------
+--------------------
+The $300B Google-Meta advertising duopoly is under attack
+418 points
+https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack
+--------------------
+--------------------
+Poor writing, not specialized concepts, drives difficulty with legal language
+405 points
+https://www.sciencedirect.com/science/article/pii/S0010027722000580
+--------------------
+--------------------
+Show HN: I may have created a new type of puzzle
+1573 points
+http://www.dogbunnypuzzle.com/
+--------------------
+--------------------
+Figma: A Random Walk in Palo Alto
+159 points
+https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/
+--------------------
+--------------------
+Measuring CPU core-to-core latency
+219 points
+https://github.com/nviennot/core-to-core-latency
+--------------------
+--------------------
+Tuned Mass Damper of Taipei 101
+80 points
+https://www.atlasobscura.com/places/tuned-mass-damper-of-taipei-101
+--------------------
+--------------------
+YouTubePluginReplacement.cpp: YouTube-specific code in WebKit
+220 points
+https://github.com/WebKit/WebKit/blob/main/Source/WebCore/Modules/plugins/YouTubePluginReplacement.cpp
+--------------------
+--------------------
+Hg64: A 64-bit histogram data structure
+45 points
+https://dotat.at/@/2022-07-15-histogram.html
+--------------------
+--------------------
+An X11 Apologist Tries Wayland
+178 points
+https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html
+--------------------
+--------------------
+How mechanics keep 50-year-old BART trains running: Windows 98, eBay, and scraps
+96 points
+https://www.mercurynews.com/2022/09/17/how-clever-mechanics-keep-50-year-old-bart-trains-running-windows-98-ebay-and-scraps/
+--------------------
+--------------------
+Bitcoin is not a Store of Value
+85 points
+https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value
+--------------------
+--------------------
+Ask HN: What do you think when companies ask for Gritty people?
+100 points
+item?id=32893292
+--------------------
+--------------------
+Trianglify.io – Low Poly Pattern Generator
+251 points
+https://trianglify.io/
+--------------------
+--------------------
+Arm execs: We respect RISC-V but it's not a rival in the datacenter
+36 points
+https://www.theregister.com/2022/09/17/arm_riscv_datacenter_competiton/
+--------------------
+--------------------
+Hot Chips 34: AMD’s Instinct MI200 Architecture
+79 points
+https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/
+--------------------
+--------------------
+Tuned Mass Damper of Taipei 101 Skyscraper during 6.8 earthquake [video]
+30 points
+https://www.youtube.com/watch?v=qnSh8C40i1s
+--------------------
+--------------------
+GCC's new fortification level: The gains and costs
+92 points
+https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level
+--------------------
+--------------------
+The Hyperinflation Gallery
+164 points
+https://lcamtuf.coredump.cx/hyper/
+--------------------
+--------------------
+Not Perfect, Just Better
+46 points
+https://satfax.substack.com/p/not-perfect-just-better
+--------------------
+--------------------
+Hacker News stylized as a retro 90s macOS desktop
+199 points
+https://hackertosh.org/
+--------------------
+--------------------
+Flexport is hiring smart, gritty People who get stuff done
+241 points
+https://Flexport.com/careers
+--------------------
+--------------------
+America’s most remarkable kid died in Newcastle, Utah
+385 points
+https://www.deseret.com/2022/8/22/23309244/cole-summers-died-newcastle-utah-warren-buffett-charlie-munger-bari-weiss-unschooled
+--------------------
+--------------------
+Sony Android TVs waste 25W in standby due to built-in Google Chromecast
+39 points
+https://www.avsforum.com/threads/sony-2015-xbr-55x850c-xbr-65x850c-xbr-75x850c-owners-club.1985298/page-765#post-61979548
+--------------------
+--------------------
+The future of documentation at Canonical (2021)
+33 points
+https://ubuntu.com/blog/the-future-of-documentation-at-canonical
+--------------------
+--------------------
+Steps to designing an embedded software architecture, Step 1
+57 points
+https://www.embedded.com/5-steps-to-designing-an-embedded-software-architecture-step-1/
+--------------------
+--------------------
+Chem Lab Made Me a Better Dev
+8 points
+https://edweissman.com/chemistry.html
+--------------------
+--------------------
+macOS Subsystem for Linux
+271 points
+https://github.com/macbian-linux/macos-subsystem-for-linux
+--------------------
+--------------------
+Finding the “second bug” in glibc’s condition variable
+60 points
+https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/
+--------------------
