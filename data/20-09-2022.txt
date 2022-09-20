@@ -1,0 +1,145 @@
+--------------------
+2-in-1 calculator app adds up to surprise hit for retired engineer
+664 points
+https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
+--------------------
+--------------------
+Cache Your CORS
+60 points
+https://httptoolkit.tech/blog/cache-your-cors/
+--------------------
+--------------------
+Faster CPython 3.12 Plan
+137 points
+https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle
+--------------------
+--------------------
+1Hz CPU made in Minecraft running Minecraft at 0.1fps [video]
+578 points
+https://www.youtube.com/watch?v=-BP7DhHTU-I
+--------------------
+--------------------
+Stable Diffusion Based Image Compression
+16 points
+https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202
+--------------------
+--------------------
+Show HN: Figr.app – a multi-user, notepad style calculator (desktop app)
+113 points
+https://www.figr.app/
+--------------------
+--------------------
+I’m a productive programmer with a memory of a fruit fly
+447 points
+https://hynek.me/articles/productive-fruit-fly-programmer/
+--------------------
+--------------------
+Jqp: A TUI playground for exploring jq
+102 points
+https://github.com/noahgorstein/jqp
+--------------------
+--------------------
+Azure CTO: “It's time to halt starting any new projects in C/C++”
+353 points
+https://twitter.com/markrussinovich/status/1571995117233504257
+--------------------
+--------------------
+Caring for the only known full kākāpō feather cloak in the world
+41 points
+https://blog.britishmuseum.org/caring-for-the-only-known-full-kakapo-feather-cloak-in-the-world/
+--------------------
+--------------------
+Automatic Differentiation in OCaml
+22 points
+https://codeberg.org/bit-fu/OCaml-AutomaticDifferentiation
+--------------------
+--------------------
+Nagorno-Karabakh’s Myth of Ancient Hatreds
+17 points
+https://www.historytoday.com/miscellanies/nagorno-karabakhs-myth-ancient-hatreds
+--------------------
+--------------------
+Sony's Nextorage Demos PCIe 5.0 SSD as It Enters SSD Market
+45 points
+https://www.tomshardware.com/news/sony-nextorage-pcie5-ssd-demoed
+--------------------
+--------------------
+R. Crumb Means Some Offense
+103 points
+https://www.nytimes.com/2022/09/15/t-magazine/r-crumb.html
+--------------------
+--------------------
+What we learned after I deleted the main production database by mistake
+100 points
+https://medium.com/@hugo.oliveira.rocha/what-we-learned-after-i-deleted-the-main-production-database-by-mistake-13c0a5815de5
+--------------------
+--------------------
+Public buses across country quietly adding microphones to record conversations
+102 points
+https://www.wired.com/2012/12/public-bus-audio-surveillance/
+--------------------
+--------------------
+More US Employers Are Trapping Workers in a New Form of Indentured Servitude
+125 points
+https://truthout.org/articles/more-us-employers-are-trapping-workers-in-a-new-form-of-indentured-servitude/
+--------------------
+--------------------
+Apple is top funder of lobby group that says it represents small developers
+321 points
+https://arstechnica.com/tech-policy/2022/09/apple-is-top-funder-of-lobby-group-that-says-it-represents-small-developers/
+--------------------
+--------------------
+The Talent Vortex: Mafias and Magnets
+4 points
+https://investing1012dot0.substack.com/p/talent-vortex
+--------------------
+--------------------
+Why kids are afraid to ask for help
+136 points
+https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/
+--------------------
+--------------------
+Postgres Data Flow
+151 points
+https://www.crunchydata.com/blog/postgres-data-flow
+--------------------
+--------------------
+AI Seamless Texture Generator Built-In to Blender
+280 points
+https://github.com/carson-katri/dream-textures
+--------------------
+--------------------
+Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers (2019)
+46 points
+https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers
+--------------------
+--------------------
+Apple’s iPhone 14 Redesign for Repair
+707 points
+https://www.ifixit.com/News/64865/iphone-14-teardown
+--------------------
+--------------------
+Have scholars finally deciphered Linear Elamite?
+41 points
+https://www.smithsonianmag.com/history/have-scholars-finally-deciphered-a-mysterious-ancient-script-180980497/
+--------------------
+--------------------
+An opinionated guide to making friends
+40 points
+https://blog.aadilali.com/posts/friends.html
+--------------------
+--------------------
+I accidentally started a movement – Policing the Police by scraping court data
+503 points
+item?id=32902945
+--------------------
+--------------------
+Stable Diffusion Text-Prompt-Based Inpainting – Replace Hair, Fashion
+112 points
+https://github.com/amrrs/stable-diffusion-prompt-inpainting
+--------------------
+--------------------
+Meticulous (YC S21) Is Hiring #3 Founding Engineer in London
+195 points
+item?id=32900942
+--------------------
