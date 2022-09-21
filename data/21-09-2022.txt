@@ -1,0 +1,145 @@
+--------------------
+Can I Use a System Call?
+62 points
+https://justine.lol/cosmopolitan/functions.html
+--------------------
+--------------------
+YouTube’s ‘dislike’ barely works according to new study on recommendations
+333 points
+https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html
+--------------------
+--------------------
+Upcyling a 40-year-old Tandy Model 100 Portable Computer
+108 points
+https://spectrum.ieee.org/upcycle-a-vintage-lcd
+--------------------
+--------------------
+Learn how to unleash the full potential of the type system of TypeScript
+428 points
+https://type-level-typescript.com/
+--------------------
+--------------------
+Philosophy of mathematics – a reading list (2020)
+186 points
+https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/
+--------------------
+--------------------
+Compact electron accelerator reaches new speeds with nothing but light
+65 points
+https://phys.org/news/2022-09-compact-electron.html
+--------------------
+--------------------
+EU Open Web Search project kicked off
+218 points
+https://openwebsearch.eu/
+--------------------
+--------------------
+Backend for Front-end
+64 points
+https://blog.frankel.ch/backend-for-frontend/
+--------------------
+--------------------
+Betterbird is a fine-tuned version of Mozilla Thunderbird email client
+20 points
+https://www.betterbird.eu/##
+--------------------
+--------------------
+Ask HN: Do you regret being a generalist?
+41 points
+item?id=32920577
+--------------------
+--------------------
+Can software simplify the supply chain?
+31 points
+https://www.theverge.com/2022/9/20/23362021/flexport-supply-chain-crisis-logistics-software-tech
+--------------------
+--------------------
+Tell HN: Somebody implemented something I wrote a blog about
+699 points
+item?id=32911299
+--------------------
+--------------------
+Launch HN: Spinach.io (YC W22) – Better daily standups
+225 points
+item?id=32911232
+--------------------
+--------------------
+Wasmtime 1.0
+417 points
+https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready
+--------------------
+--------------------
+Etleap (YC W13) Is Hiring Software Engineer – London
+429 points
+https://etleap.com/careers/software-engineer/
+--------------------
+--------------------
+You don’t want to be on Cloudflare’s naughty list
+173 points
+https://www.ctrl.blog/entry/cloudflare-ip-blockade.html
+--------------------
+--------------------
+Fork of the popular “I don't care about cookies” extension
+90 points
+https://github.com/OhMyGuus/I-Dont-Care-About-Cookies
+--------------------
+--------------------
+gPodder: A simple, open-source podcast client
+68 points
+https://gpodder.github.io/
+--------------------
+--------------------
+Show HN: TaskTXT, plain text task-timing notepad
+46 points
+https://tasktxt.com/
+--------------------
+--------------------
+Disentangling the facts from the hype of quantum computing
+134 points
+https://spectrum.ieee.org/ieee-quantum-week
+--------------------
+--------------------
+Cloudflare Beta (2009)
+29 points
+https://www.projecthoneypot.org/cloudflare_beta.html
+--------------------
+--------------------
+Mrs. Bundy (2015)
+67 points
+https://themorningnews.org/article/mrs.-bundy
+--------------------
+--------------------
+Texas Instruments TMX 1795: the almost first, forgotten microprocessor (2015)
+110 points
+https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html
+--------------------
+--------------------
+GTK4 Bindings for Common Lisp
+425 points
+https://github.com/bohonghuang/cl-gtk4
+--------------------
+--------------------
+What I’ve learned from users
+161 points
+http://paulgraham.com/users.html
+--------------------
+--------------------
+LibRedirect: Redirect YouTube, Twitter, Instagram to privacy friendly services
+70 points
+https://github.com/libredirect/libredirect
+--------------------
+--------------------
+JITX (YC S18) launches general availability and announces Series A from Sequoia
+71 points
+https://www.jitx.com/blog/series-a-announcement
+--------------------
+--------------------
+Intelligence and radical economic attitudes
+298 points
+https://www.sciencedirect.com/science/article/pii/S0160289622000800
+--------------------
+--------------------
+uBlock Origin Lite: Description
+34 points
+https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md
+--------------------
