@@ -1,0 +1,150 @@
+--------------------
+Whisper – open source speech recognition by OpenAI
+1207 points
+https://openai.com/blog/whisper/
+--------------------
+--------------------
+Olive.c: a simple graphics library that does not have any dependencies
+234 points
+https://tsoding.org/olive.c/
+--------------------
+--------------------
+The Deceiving Stretch of Water with 100% Mortality Rate
+107 points
+https://the-yorkshireman.com/the-strid/
+--------------------
+--------------------
+AWS vs. GCP reliability is wildly different
+338 points
+https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
+--------------------
+--------------------
+The IT Crowd US Pilot
+131 points
+https://archive.org/details/the-it-crowd-us-pilot
+--------------------
+--------------------
+The Framework Laptop Chromebook Edition
+500 points
+https://frame.work/at/en/blog/introducing-the-framework-laptop-chromebook-edition
+--------------------
+--------------------
+New Webb image captures clearest view of Neptune’s rings in decades
+414 points
+https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/
+--------------------
+--------------------
+LiteFS
+507 points
+https://fly.io/blog/introducing-litefs/
+--------------------
+--------------------
+Using a Canon EOS camera as a webcam in Debian
+83 points
+https://www.schlachter.xyz/projects/debian-dslr-webcam-with-secure-boot
+--------------------
+--------------------
+Why do we salt the ice when making ice cream?
+209 points
+https://www.timothyrice.org/icecreamsalt/
+--------------------
+--------------------
+A text adventure game on TypeScript's type system
+210 points
+https://github.com/cassiozen/TDungeon
+--------------------
+--------------------
+Psychiatrists in Brussels can now prescribe free visits to museums
+23 points
+https://www.theguardian.com/world/2022/sep/17/museums-on-prescription-brussels-tests-cultural-visits-to-treat-anxiety
+--------------------
+--------------------
+Modernity is incompatible with planetary limits: a PLAN for the future
+87 points
+https://www.sciencedirect.com/science/article/pii/S2214629621003327
+--------------------
+--------------------
+Getty Images bans AI-generated content over fears of copyright claims
+266 points
+https://www.theverge.com/2022/9/21/23364696/getty-images-ai-ban-generated-artwork-illustration-copyright
+--------------------
+--------------------
+Ask HN: Why is Microsoft Teams still so bad?
+290 points
+item?id=32932137
+--------------------
+--------------------
+What Does the Post Crash VC Market Look Like?
+83 points
+https://bothsidesofthetable.com/what-does-the-post-crash-vc-market-look-like-ed81cd884021?gi=4617a961d30d
+--------------------
+--------------------
+Hacking anything with GNU Guix
+261 points
+https://gexp.no/blog/hacking-anything-with-gnu-guix.html
+--------------------
+--------------------
+Mapping the unknown – Steps to map any industry
+52 points
+https://steveblank.com/2022/09/20/mapping-the-unknown-the-ten-steps-to-map-any-industry/
+--------------------
+--------------------
+The Gift of Rewatching Spirited Away
+4 points
+https://www.theatlantic.com/culture/archive/2022/09/rewatching-spirited-away-hayao-miyazaki/671486/
+--------------------
+--------------------
+Walkmp3rson Is an MP3 Player Like Sony Never Made
+28 points
+https://hackaday.com/2022/09/20/walkmp3rson-is-an-mp3-player-like-sony-never-made/
+--------------------
+--------------------
+Q – Run SQL Directly on CSV or TSV Files
+162 points
+http://harelba.github.io/q/
+--------------------
+--------------------
+Will serving real HTML content make a website faster?
+151 points
+https://blog.webpagetest.org/posts/will-html-content-make-site-faster/
+--------------------
+--------------------
+Websdr.org – Software-Defined Radio receiver connected to the internet
+44 points
+http://websdr.org/
+--------------------
+--------------------
+Decipad – Like Notion with problem-solving capabilities
+188 points
+https://www.decipad.com
+--------------------
+--------------------
+Neutralisation of cockroaches with laser automated by machine vision
+32 points
+https://www.researchgate.net/publication/363699728_Selective_neutralisation_and_deterring_of_cockroaches_with_laser_automated_by_machine_vision
+--------------------
+--------------------
+MinIO passes 1B cumulative Docker Pulls
+97 points
+https://blog.min.io/one-billion-docker-pulls/
+--------------------
+--------------------
+Your work matters – Build your schedule accordingly
+158 points
+https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/
+--------------------
+--------------------
+I’ve been building a database of successful companies
+144 points
+https://www.starterstory.com/explore
+--------------------
+--------------------
+The abundance, biomass, and distribution of ants on Earth
+145 points
+https://www.pnas.org/doi/10.1073/pnas.2201550119
+--------------------
+--------------------
+Tether ordered to produce documents showing backing of USDT [pdf]
+374 points
+https://storage.courtlistener.com/recap/gov.uscourts.nysd.524076/gov.uscourts.nysd.524076.247.0.pdf
+--------------------
