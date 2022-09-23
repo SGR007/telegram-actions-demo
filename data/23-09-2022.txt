@@ -1,0 +1,145 @@
+--------------------
+Nightdrive
+231 points
+https://incoherency.co.uk/blog/stories/nightdrive.html
+--------------------
+--------------------
+Avoiding homework with code (and getting caught)
+278 points
+https://alistair.blog/mochip
+--------------------
+--------------------
+Why adults still dream about school
+163 points
+https://www.theatlantic.com/family/archive/2022/09/why-school-haunts-our-dreams-long-after-graduation/671506/
+--------------------
+--------------------
+Google wants to take on Dolby with new open media formats
+400 points
+https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar
+--------------------
+--------------------
+Pcmcia Pico W Card
+118 points
+https://www.yyzkevin.com/pcmcia-pico-w-card/
+--------------------
+--------------------
+Super-Earths Are Bigger and More Habitable Than Earth, and Astronomers Are Di
+64 points
+https://singularityhub.com/2022/09/22/super-earths-are-bigger-and-more-habitable-than-earth-and-astronomers-are-discovering-more-of-the-billions-they-think-are-out-there/
+--------------------
+--------------------
+We Need New Motherboards Before GPUs Collapse Under Their Own Gravity
+154 points
+https://erikmcclure.com/blog/we-need-new-motherboards/
+--------------------
+--------------------
+Uify: One Workspace
+39 points
+https://uify.io/
+--------------------
+--------------------
+TLDR explains what a piece of code does
+142 points
+https://twitter.com/marcelpociot/status/1572690548074348549
+--------------------
+--------------------
+The South Asian Polycrisis
+17 points
+https://adamtooze.substack.com/p/chartbook-153-the-south-asian-polycrisis
+--------------------
+--------------------
+Show HN: Open Prompts – dataset of 10M Stable Diffusion generations
+189 points
+https://github.com/krea-ai/open-prompts
+--------------------
+--------------------
+Book Review: Open Circuits
+25 points
+https://www.bunniestudios.com/blog/?p=6558
+--------------------
+--------------------
+A pair of Rust kernel modules
+55 points
+https://lwn.net/Articles/907685/
+--------------------
+--------------------
+Luxury Media
+110 points
+https://www.tbray.org/ongoing/When/202x/2022/09/21/Luxury-Media
+--------------------
+--------------------
+The rush to mine lithium could dry up the high Andes
+94 points
+https://e360.yale.edu/features/lithium-mining-water-andes-argentina
+--------------------
+--------------------
+I spent two years trying to do what Backstage does for free
+260 points
+https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/
+--------------------
+--------------------
+Despite faster broadband every year, web pages don't load any faster
+39 points
+https://www.datafantic.com/how-much-time-do-we-waste-waiting-for-websites-to-load/
+--------------------
+--------------------
+Tangled issues with permanent HTTP redirects
+5 points
+https://utcc.utoronto.ca/~cks/space/blog/web/HTTPRedirectsTypeIssues
+--------------------
+--------------------
+Kanban Board for the Command Line
+15 points
+https://github.com/coderofsalvation/kanban.bash
+--------------------
+--------------------
+OpenBSD Server Rack (2009)
+30 points
+https://www.openbsd.org/images/rack2009.jpg
+--------------------
+--------------------
+Expanding access to the future of work with crypto payouts
+59 points
+https://stripe.com/newsroom/stories/braintrust-crypto-payouts
+--------------------
+--------------------
+The road to realistic full-body deepfakes
+201 points
+https://metaphysic.ai/the-road-to-realistic-full-body-deepfakes/
+--------------------
+--------------------
+New Story (YC S15) Is Hiring a Controller
+149 points
+https://newstorycharity.org/careers/
+--------------------
+--------------------
+Florida to Supreme Court: Let us regulate social networks as common carriers
+378 points
+https://arstechnica.com/tech-policy/2022/09/florida-to-supreme-court-let-us-regulate-social-networks-as-common-carriers/
+--------------------
+--------------------
+American Data Privacy and Protection Act
+28 points
+https://www.congress.gov/bill/117th-congress/house-bill/8152/text
+--------------------
+--------------------
+Apache Shenyu Project Graduates
+153 points
+https://github.com/apache/shenyu
+--------------------
+--------------------
+Most US professors are trained at same few elite universities
+222 points
+https://www.nature.com/articles/d41586-022-02998-w
+--------------------
+--------------------
+Show HN: I made an open-source Bitly alternative
+35 points
+https://dub.sh/
+--------------------
+--------------------
+Factorio Is the Best Technical Interview We Have (2021)
+177 points
+https://erikmcclure.com/blog/factorio-is-best-interview-we-have/
+--------------------
