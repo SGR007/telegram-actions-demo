@@ -1,0 +1,145 @@
+--------------------
+The image in this post displays its own MD5 hash
+461 points
+https://retr0.id/notice/ANqlvFZD1eIqjmRiFc
+--------------------
+--------------------
+At 4.4 miles, Wyoming team sets new rifle shot world record
+273 points
+https://cowboystatedaily.com/2022/09/20/at-4-4-miles-wyoming-team-sets-new-rifle-shot-world-record/
+--------------------
+--------------------
+Software I’m thankful for (2021)
+628 points
+https://crawshaw.io/blog/thankful-for-technology
+--------------------
+--------------------
+Technology Choices for My SaaS in Retrospect
+57 points
+https://thomasbandt.com/technology-choices-in-retrospect
+--------------------
+--------------------
+Something is haunting American Airlines’ announcements and nobody knows how
+392 points
+https://waxy.org/2022/09/a-mysterious-voice-is-haunting-american-airlines-in-flight-announcements-and-nobody-knows-how/
+--------------------
+--------------------
+'Securing Open Source Software Act' introduced to US Senate
+177 points
+https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-introduce-bipartisan-legislation-to-help-secure-open-source-software_
+--------------------
+--------------------
+Get in Zoomer, We're Saving React
+42 points
+https://acko.net/blog/get-in-zoomer-we-re-saving-react/
+--------------------
+--------------------
+Algorithms and data structures implemented in many programming languages
+144 points
+https://the-algorithms.com/
+--------------------
+--------------------
+Emmanuel Mignot wins Breakthrough Prize for discovering cause of narcolepsy
+121 points
+https://med.stanford.edu/news/all-news/2022/09/emmanuel-mignot-wins-breakthrough-prize-for-discovering-cause-of.html
+--------------------
+--------------------
+Show HN: Ezno, a type checker for JavaScript and optimiser for React
+107 points
+https://kaleidawave.github.io/posts/introducing-ezno/
+--------------------
+--------------------
+Be critical or be corrupted
+249 points
+https://www.cenizal.com/be-critical-or-be-corrupted/
+--------------------
+--------------------
+Langcc: A Next-Generation Compiler Compiler
+118 points
+https://github.com/jzimmerman/langcc
+--------------------
+--------------------
+Shasta: AI-powered audio recording and editing
+109 points
+https://pages.adobe.com/shasta/
+--------------------
+--------------------
+Autobiographical Notes by Jorge Luis Borges (1970)
+17 points
+https://www.newyorker.com/magazine/1970/09/19/jorge-luis-borges-profile-autobiographical-notes
+--------------------
+--------------------
+LXC and LXD: a different container story
+169 points
+https://lwn.net/Articles/907613/
+--------------------
+--------------------
+The small town that saved its only grocery store – by buying it
+23 points
+https://thehustle.co/the-small-town-that-saved-its-only-grocery-store-by-buying-it/
+--------------------
+--------------------
+Financing offshore wind
+54 points
+https://jeromeaparis.substack.com/p/financing-offshore-wind-part-1
+--------------------
+--------------------
+Dvořák In Iowa (2020)
+16 points
+https://www.plough.com/en/topics/culture/music/when-dvorak-went-to-iowa-to-meet-god
+--------------------
+--------------------
+Mozilla claims Apple, Google and Microsoft force users to use default browsers
+370 points
+https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers
+--------------------
+--------------------
+Breaking into English
+12 points
+https://lareviewofbooks.org/article/breaking-into-english/
+--------------------
+--------------------
+Theory of Self Reproducing Automata [pdf]
+26 points
+https://cba.mit.edu/events/03.11.ASE/docs/VonNeumann.pdf
+--------------------
+--------------------
+Replit (YC W18) Is Hiring ML Engineers to Build AI for Code
+115 points
+https://replit.com/careers
+--------------------
+--------------------
+Xlskubectl – a spreadsheet to control your Kubernetes cluster
+20 points
+https://github.com/learnk8s/xlskubectl
+--------------------
+--------------------
+Optimizing compilers deduplicate strings and arrays
+92 points
+https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/
+--------------------
+--------------------
+60 knights paused a war to fight a battle royale
+105 points
+https://www.historynet.com/60-knights-death-match/
+--------------------
+--------------------
+Charging cars at home at night is not the way to go: study
+1313 points
+https://news.stanford.edu/press/view/45245
+--------------------
+--------------------
+Nightdrive
+5 points
+https://incoherency.co.uk/blog/stories/nightdrive.html
+--------------------
+--------------------
+Tiny Swimming Robots Treat Deadly Pneumonia in Mice
+30 points
+https://today.ucsd.edu/story/tiny-swimming-robots-treat-deadly-pneumonia-in-mice
+--------------------
+--------------------
+All about that grain
+27 points
+https://www.fxhash.xyz/article/all-about-that-grain
+--------------------
