@@ -1,0 +1,145 @@
+--------------------
+New Insignia for Air Domain Intelligence Has a UFO
+65 points
+https://www.airdomainintelligence.mil/
+--------------------
+--------------------
+webЯcade – WASM based retro emulation on any device
+170 points
+https://github.com/webrcade/webrcade
+--------------------
+--------------------
+Catalytic Process with Lignin Could Enable 100% Sustainable Aviation Fuel
+11 points
+https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html
+--------------------
+--------------------
+iPhones and action discoverability
+266 points
+https://alexanderell.is/posts/iphone-discoverability/
+--------------------
+--------------------
+GCP, AWS, and Azure ARM-based server performance comparison
+65 points
+https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/
+--------------------
+--------------------
+This page is a truly naked, brutalist HTML quine (2019)
+59 points
+https://secretgeek.github.io/html_wysiwyg/html.html
+--------------------
+--------------------
+Apple Big Pink #3 (1990) [pdf]
+36 points
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/mac/pink/Apple_Big_Pink_3_Mar1990.pdf
+--------------------
+--------------------
+Gadgetbridge is an Android application for your smart watch and other devices
+151 points
+https://gadgetbridge.org/
+--------------------
+--------------------
+Run SQL on CSV, Parquet, JSON, Arrow, Unix Pipes and Google Sheet
+219 points
+https://github.com/roapi/roapi/blob/main/columnq-cli/README.md
+--------------------
+--------------------
+Okta Exposes Passwords in Clear Text for Possible Theft
+39 points
+https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft
+--------------------
+--------------------
+Free Book: Linux IP Stacks Commentary
+162 points
+https://www.satchell.net/ipstacks/
+--------------------
+--------------------
+The Double Entry Counting Method (2016)
+66 points
+https://beancount.github.io/docs/the_double_entry_counting_method.html
+--------------------
+--------------------
+Board Games and Markov Chains
+6 points
+https://kevingal.com/blog/boardgame.html
+--------------------
+--------------------
+Bloom’s Taxonomy
+12 points
+https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/
+--------------------
+--------------------
+Guix for Development
+70 points
+https://dthompson.us/guix-for-development.html
+--------------------
+--------------------
+GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images
+154 points
+https://nv-tlabs.github.io/GET3D/
+--------------------
+--------------------
+Schedule cronjob for the first Monday of every month, the funky way
+97 points
+https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/
+--------------------
+--------------------
+What Modern Humans Can Learn from Ancient Software
+35 points
+https://www.wired.com/story/modern-humans-learn-ancient-software-retrocomputing/
+--------------------
+--------------------
+I Fooled Millions into Thinking Chocolate Helps Weight Loss (2015)
+72 points
+https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800
+--------------------
+--------------------
+Show HN: Jot: Rapid note management for the terminal, inspired by Obsidian
+121 points
+https://github.com/araekiel/jot
+--------------------
+--------------------
+Firezone (YC W22) is hiring a founding engineer to build an open-source VPN
+101 points
+https://www.ycombinator.com/companies/firezone/jobs
+--------------------
+--------------------
+VToonify: Controllable High-Resolution Portrait Video Style Transfer
+111 points
+https://www.mmlab-ntu.com/project/vtoonify/
+--------------------
+--------------------
+Whois: Fragile, Unparseable, Obsolete
+494 points
+https://www.netmeister.org/blog/whois.html
+--------------------
+--------------------
+Linux on the laptop works so damn well that it’s boring
+40 points
+https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941
+--------------------
+--------------------
+Fixed-Point HTML
+230 points
+https://habilis.net/fixed-point-html/
+--------------------
+--------------------
+Want cleaner code? Use the rule of six
+17 points
+https://davidamos.dev/the-rule-of-six/
+--------------------
+--------------------
+‘I always made an awkward bow’: John Keats’s poignant farewell
+92 points
+https://www.spectator.co.uk/article/-i-always-made-an-awkward-bow-john-keats-s-poignant-farewell
+--------------------
+--------------------
+Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose
+6 points
+https://github.com/vulhub/vulhub
+--------------------
+--------------------
+Ask HN: How to do the bare minimum when not valued at work?
+497 points
+item?id=32968577
+--------------------
