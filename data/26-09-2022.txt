@@ -1,0 +1,150 @@
+--------------------
+Mcmaster.com is the best e-commerce site I've ever used
+660 points
+https://www.bedelstein.com/post/mcmaster-carr
+--------------------
+--------------------
+Someday aliens will land and all will be fine until we explain our calendar
+959 points
+https://twitter.com/foone/status/1572260363764400129
+--------------------
+--------------------
+Adversarial Collaboration
+91 points
+https://www.edge.org/adversarial-collaboration-daniel-kahneman
+--------------------
+--------------------
+JMAP: It’s Like IMAP but Not Really (2019)
+78 points
+https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/
+--------------------
+--------------------
+58 bytes of CSS to look great nearly everywhere
+570 points
+https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41
+--------------------
+--------------------
+Run programs in Emacs buffer, seeing their output inline, interactively
+38 points
+https://github.com/darius/halp
+--------------------
+--------------------
+3x new books added to the Pirate Library Mirror
+473 points
+http://annas-blog.org/blog-3x-new-books.html
+--------------------
+--------------------
+Downturn Career Decisions
+92 points
+https://lethain.com/downturn-career-decisions/
+--------------------
+--------------------
+Has the Zodiac killer mystery been solved again?
+183 points
+https://www.lamag.com/citythinkblog/zodiac-killer-paul-alfred-doerr/
+--------------------
+--------------------
+50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat (2016)
+135 points
+https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat
+--------------------
+--------------------
+Layoffs at Canadian tech startups
+153 points
+https://www.theglobeandmail.com/business/article-canadian-tech-startups-downturn-layoffs/
+--------------------
+--------------------
+The Subcontrabassoon Project
+77 points
+http://www.subcontrabassoon.com/media.html
+--------------------
+--------------------
+McKinsey and Providence colluded to force poor patients into destitution
+82 points
+https://pluralistic.net/2022/09/25/criminal-conspiracy/#payment-is-expected
+--------------------
+--------------------
+Lessons from a Professional Password Cracker
+60 points
+https://themarkup.org/newsletter/hello-world/lessons-from-a-professional-password-cracker
+--------------------
+--------------------
+Sterling hits record low against the dollar, as Asia-Pac currencies also weaken
+89 points
+https://www.cnbc.com/2022/09/26/sterling-hits-record-low-against-the-dollar-as-other-asia-pacific-currencies-weaken.html
+--------------------
+--------------------
+What does $0=$2 in awk do?
+90 points
+https://kau.sh/blog/awk-1-oneliner-dollar-explanation/
+--------------------
+--------------------
+Show HN: A Little Tool to Visualize Guitar Chords
+57 points
+https://muted.io/guitar-chords/
+--------------------
+--------------------
+Pdfgrep – a commandline utility to search text in PDF files
+234 points
+https://pdfgrep.org/
+--------------------
+--------------------
+Katara: Synthesizing CRDTs with Verified Lifting
+25 points
+https://arxiv.org/abs/2205.12425
+--------------------
+--------------------
+The Curious Design of Skateboard Trucks
+94 points
+https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks
+--------------------
+--------------------
+Rawhide – (rh) find files using pretty C expressions
+5 points
+https://raf.org/rawhide/README.html
+--------------------
+--------------------
+I hate telephones (2017)
+12 points
+https://jameshfisher.com/2017/11/08/i-hate-telephones/
+--------------------
+--------------------
+Word Writer 6 Commodore 64 Source Code
+92 points
+https://github.com/jefflomax/word-writer-6-commodore-64
+--------------------
+--------------------
+Tradition is Smarter (2018)
+90 points
+https://scholars-stage.org/tradition-is-smarter-than-you-are/
+--------------------
+--------------------
+Exploring Time and Order in Distributed Systems
+18 points
+https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering
+--------------------
+--------------------
+When did POP and IMAP become a “legacy protocol?”
+79 points
+http://boston.conman.org//2022/09/22.1
+--------------------
+--------------------
+New Frontiers in Analytical Philosophy (1977)
+15 points
+https://www.nytimes.com/1977/08/14/archives/new-frontiers-in-american-philosophy-philosophy.html
+--------------------
+--------------------
+What to read to become a better writer
+144 points
+https://www.economist.com/the-economist-reads/2022/09/09/what-to-read-to-become-a-better-writer
+--------------------
+--------------------
+Literate DevOps (2014)
+19 points
+http://howardism.org/Technical/Emacs/literate-devops.html
+--------------------
+--------------------
+Offline map test on Apple Watch Ultra for hiking
+47 points
+https://jooonas.medium.com/offline-map-test-on-apple-watch-ultra-3b73541cec52
+--------------------
