@@ -1,0 +1,150 @@
+--------------------
+New Release: 0 A.D. Alpha 26: Zhuangzi (Open Source Ancient Warfare RTS)
+58 points
+https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/
+--------------------
+--------------------
+Outdated vs. Complete: In defense of apps that don’t need updates
+566 points
+https://vivqu.com/blog/2022/09/25/outdated-apps/
+--------------------
+--------------------
+Why Feelings of Guilt May Signal Leadership Potential
+93 points
+https://www.gsb.stanford.edu/insights/why-feelings-guilt-may-signal-leadership-potential
+--------------------
+--------------------
+Ignite – Use Firecracker VMs with Docker images
+125 points
+https://github.com/weaveworks/ignite
+--------------------
+--------------------
+Experimenting a New Syntax to Write SVG
+116 points
+https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg
+--------------------
+--------------------
+Hardvard Resumes and cover letters guide [pdf]
+65 points
+https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf
+--------------------
+--------------------
+CTO Should Be Technical
+369 points
+https://blog.southparkcommons.com/your-cto-should-actually-be-technical/
+--------------------
+--------------------
+Go runtime: 4 years later
+234 points
+https://go.dev/blog/go119runtime
+--------------------
+--------------------
+One of America’s last piano manufacturers stays alive
+14 points
+https://thehustle.co/how-one-of-americas-last-piano-manufacturers-stays-alive/
+--------------------
+--------------------
+Physicists Rewrite a Quantum Rule That Clashes with Our Universe
+44 points
+https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/
+--------------------
+--------------------
+The Next Century of Computing
+46 points
+https://bzogrammer.substack.com/p/the-next-century-of-computing
+--------------------
+--------------------
+Zen4's AVX512 Teardown
+374 points
+https://www.mersenneforum.org/showthread.php?p=614191
+--------------------
+--------------------
+Stop Overcomplicating It: The Simple Guidebook to Upping Your Management Game
+43 points
+https://review.firstround.com/stop-overcomplicating-it-the-simple-guidebook-to-upping-your-management-game
+--------------------
+--------------------
+Philadelphia’s diatom archive is a way, way, wayback machine
+15 points
+https://hakaimagazine.com/features/philadephias-diatom-archive-is-a-way-way-way-back-machine/
+--------------------
+--------------------
+Two women recall coming of age in Victorian London (1970) [video]
+115 points
+https://aeon.co/videos/from-manners-to-mud-two-women-recall-coming-of-age-in-victorian-london
+--------------------
+--------------------
+Why we moved from AWS RDS to Postgres in Kubernetes
+160 points
+https://nhost.io/blog/individual-postgres-instances
+--------------------
+--------------------
+Explained from scratch: private information retrieval and homomorphic encryption
+110 points
+https://blintzbase.com/posts/pir-and-fhe-from-scratch/
+--------------------
+--------------------
+Does Someone Know My Name?
+246 points
+https://blogs.loc.gov/now-see-hear/2022/09/does-someone-know-my-name-mystery-photos/
+--------------------
+--------------------
+Launch HN: Prequel (YC W21) – Sync data to your customer’s data warehouse
+104 points
+item?id=32984103
+--------------------
+--------------------
+Dear Chess World
+472 points
+https://twitter.com/MagnusCarlsen/status/1574482694406565888
+--------------------
+--------------------
+Only Persistent Login
+62 points
+http://avodonosov.blogspot.com/2022/09/google-login-dialog-does-not-have.html
+--------------------
+--------------------
+Enhance: a web standards-based HTML framework
+85 points
+https://enhance.dev/docs/
+--------------------
+--------------------
+Isolates, microVMs, and WebAssembly
+80 points
+https://notes.crmarsh.com/isolates-microvms-and-webassembly
+--------------------
+--------------------
+An early disruption event is starting for the Polar Vortex
+126 points
+https://www.severe-weather.eu/global-weather/polar-vortex-early-disruptive-event-winter-influence-united-states-europe-fa/
+--------------------
+--------------------
+Playstation 2 Architecture
+223 points
+https://www.copetti.org/writings/consoles/playstation-2/
+--------------------
+--------------------
+Pathologies of the attention economy
+64 points
+https://theconvivialsociety.substack.com/p/the-pathologies-of-the-attention
+--------------------
+--------------------
+Hilary Mantel’s Life with Ghosts
+7 points
+https://www.newyorker.com/culture/postscript/hilary-mantels-life-with-ghosts
+--------------------
+--------------------
+Gems from the man page trenches (2016)
+44 points
+https://www.saminiir.com/gems-from-man-page-trenches/
+--------------------
+--------------------
+Typographic Web Design: How to Think Like a Typographer in HTML and CSS (2011)
+15 points
+https://www.wiley.com/en-us/Typographic+Web+Design:+How+to+Think+Like+a+Typographer+in+HTML+and+CSS-p-9781119976875
+--------------------
+--------------------
+How to 3D-Print One of the Strongest Stainless Steels
+85 points
+https://www.nist.gov/news-events/news/2022/09/researchers-uncover-how-3d-print-one-strongest-stainless-steels
+--------------------
